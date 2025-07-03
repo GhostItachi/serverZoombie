@@ -2078,3 +2078,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'epicsamurai:mask_straw_hat'
 [03Jul2025 22:58:03.564] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [03Jul2025 22:58:03.601] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
 [03Jul2025 22:58:03.601] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[03Jul2025 23:09:37.111] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[03Jul2025 23:09:37.230] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zsebask[/127.120.187.36:51489] logged in with entity id 153 at (86.5722605929027, 111.0, -255.3516014858191)
+[03Jul2025 23:09:37.247] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zsebask
+[03Jul2025 23:09:37.248] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zsebask
+[03Jul2025 23:09:37.249] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zsebask
+[03Jul2025 23:09:37.249] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zsebask
+[03Jul2025 23:09:37.255] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zsebask
+[03Jul2025 23:09:37.260] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zsebask
+[03Jul2025 23:09:37.261] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zsebask
+[03Jul2025 23:09:37.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask joined the game
+[03Jul2025 23:09:37.644] [Server thread/INFO] [Jade/]: Syncing config to zsebask (a9075875-f090-3eeb-8044-ed360391daea)
+[03Jul2025 23:09:43.457] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Sheep['Sheep'/327, l='ServerLevel[world]', x=96.53, y=106.00, z=-432.01]
+[03Jul2025 23:10:01.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask lost connection: Disconnected
+[03Jul2025 23:10:01.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask left the game
