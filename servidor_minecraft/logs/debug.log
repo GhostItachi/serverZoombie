@@ -5267,3 +5267,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Jul2025 17:43:43.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jul2025 17:43:43.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jul2025 17:47:05.384] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=9781, y=64, z=10907}) doesn't have enough leaves around top most log
+[04Jul2025 17:48:43.806] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player a9075875-f090-3eeb-8044-ed360391daea
+[04Jul2025 17:48:43.806] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[04Jul2025 17:48:43.806] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player a9075875-f090-3eeb-8044-ed360391daea
+[04Jul2025 17:48:43.829] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[04Jul2025 17:48:43.845] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[04Jul2025 17:48:43.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 17:48:43.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 17:51:39.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7222, l='ServerLevel[world]', x=9702.50, y=109.59, z=11212.96] died, message: 'Unemployed was turned to ice by Ice Dragon'
+[04Jul2025 17:51:47.402] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/7153, l='ServerLevel[world]', x=9701.21, y=103.00, z=11195.48] died, message: 'Farmer was frozen by Ice Dragon'
+[04Jul2025 17:52:32.101] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/7261, l='ServerLevel[world]', x=9707.79, y=104.00, z=11215.70] died, message: 'Farmer hit the ground too hard whilst trying to escape Ice Dragon'
+[04Jul2025 17:53:43.814] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player a9075875-f090-3eeb-8044-ed360391daea
+[04Jul2025 17:53:43.814] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[04Jul2025 17:53:43.814] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player a9075875-f090-3eeb-8044-ed360391daea
+[04Jul2025 17:53:43.839] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[04Jul2025 17:53:43.861] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[04Jul2025 17:53:43.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 17:53:43.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 17:54:33.504] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7262, l='ServerLevel[world]', x=9698.30, y=105.83, z=11206.46] died, message: 'Unemployed was slain by Ice Dragon'
+[04Jul2025 17:54:39.748] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/7154, l='ServerLevel[world]', x=9736.62, y=115.00, z=11206.34] died, message: 'Cartographer was turned to ice by Ice Dragon'
+[04Jul2025 17:55:29.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/7221, l='ServerLevel[world]', x=9693.30, y=105.50, z=11209.20] died, message: 'Weaponsmith was pricked to death'
