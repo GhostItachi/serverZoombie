@@ -5997,3 +5997,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Jul2025 18:53:43.849] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
 [04Jul2025 18:53:43.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jul2025 18:53:43.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 18:58:43.820] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player a9075875-f090-3eeb-8044-ed360391daea
+[04Jul2025 18:58:43.820] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[04Jul2025 18:58:43.820] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player a9075875-f090-3eeb-8044-ed360391daea
+[04Jul2025 18:58:43.841] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[04Jul2025 18:58:43.855] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[04Jul2025 18:58:43.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 18:58:43.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 19:02:09.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask was slain by Cyclops
+[04Jul2025 19:02:09.364] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for zsebask with unique ID travelersbackpack.sponge_04.07.2025-19.02.09.dat
+[04Jul2025 19:02:10.687] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Attaching PlayerWarData capability to player entity
+[04Jul2025 19:02:10.687] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 5a6aa647-8863-41d9-bd6a-07ab10bc011f
+[04Jul2025 19:02:10.850] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1751655730850
+[04Jul2025 19:03:26.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask lost connection: Disconnected
+[04Jul2025 19:03:26.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask left the game
+[04Jul2025 19:03:26.356] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[04Jul2025 19:03:26.357] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged out, ensuring war data is saved
+[04Jul2025 19:03:26.357] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[04Jul2025 19:03:26.357] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[04Jul2025 19:03:26.362] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player a9075875-f090-3eeb-8044-ed360391daea
+[04Jul2025 19:03:26.362] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[04Jul2025 19:03:26.362] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player a9075875-f090-3eeb-8044-ed360391daea
+[04Jul2025 19:03:43.798] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[04Jul2025 19:03:43.812] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[04Jul2025 19:03:43.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 19:03:43.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jul2025 19:08:43.796] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[04Jul2025 19:08:43.811] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[04Jul2025 19:08:43.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jul2025 19:08:43.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
