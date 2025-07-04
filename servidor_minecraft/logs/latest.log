@@ -557,3 +557,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Jul2025 17:54:33.504] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7262, l='ServerLevel[world]', x=9698.30, y=105.83, z=11206.46] died, message: 'Unemployed was slain by Ice Dragon'
 [04Jul2025 17:54:39.748] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/7154, l='ServerLevel[world]', x=9736.62, y=115.00, z=11206.34] died, message: 'Cartographer was turned to ice by Ice Dragon'
 [04Jul2025 17:55:29.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/7221, l='ServerLevel[world]', x=9693.30, y=105.50, z=11209.20] died, message: 'Weaponsmith was pricked to death'
+[04Jul2025 17:59:28.460] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask lost connection: Disconnected
+[04Jul2025 17:59:28.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask left the game
+[04Jul2025 17:59:28.462] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[04Jul2025 17:59:28.463] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged out, ensuring war data is saved
+[04Jul2025 17:59:28.464] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[04Jul2025 17:59:28.464] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[04Jul2025 18:00:52.692] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 54c12b7a-5316-412e-8f4e-6424d4055ca0
+[04Jul2025 18:00:52.717] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[04Jul2025 18:00:52.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zsebask[/127.120.187.36:52619] logged in with entity id 9537 at (9617.09614278541, 70.0, 11073.699999988079)
+[04Jul2025 18:00:52.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask joined the game
+[04Jul2025 18:00:52.784] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zsebask just logged in with id a9075875-f090-3eeb-8044-ed360391daea
+[04Jul2025 18:00:52.785] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged in, ensuring war data is loaded
+[04Jul2025 18:00:52.785] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[04Jul2025 18:00:52.785] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[04Jul2025 18:00:52.785] [Server thread/INFO] [Jade/]: Syncing config to zsebask (a9075875-f090-3eeb-8044-ed360391daea)
+[04Jul2025 18:00:52.786] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[04Jul2025 18:00:52.965] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zsebask
+[04Jul2025 18:03:23.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/9738, l='ServerLevel[world]', x=9649.87, y=71.98, z=11186.95] died, message: 'Shepherd was slain by Zombie'
+[04Jul2025 18:15:53.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/9975, l='ServerLevel[world]', x=9686.68, y=81.81, z=11205.68] died, message: 'Shepherd was blown up by Creeper'
+[04Jul2025 18:18:43.911] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Phantom Lords - Buildings: 0, Generated: 0, Maintenance: 0, Final Balance: 28
+[04Jul2025 18:18:43.914] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax generation cycle completed for all colonies
+[04Jul2025 18:24:57.808] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/9963, l='ServerLevel[world]', x=9692.70, y=74.00, z=11273.10] died, message: 'Leatherworker was slain by Zombie'
+[04Jul2025 18:26:13.047] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/9741, l='ServerLevel[world]', x=9668.51, y=103.18, z=11177.20] died, message: 'Farmer was slain by Ice Dragon'
