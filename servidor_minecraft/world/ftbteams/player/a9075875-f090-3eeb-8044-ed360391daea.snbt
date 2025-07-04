@@ -8,7 +8,7 @@
 	properties: {
 		"ftbteams:display_name": "zsebask"
 		"ftbteams:description": ""
-		"ftbteams:color": "#88FF59"
+		"ftbteams:color": "#60FF59"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
