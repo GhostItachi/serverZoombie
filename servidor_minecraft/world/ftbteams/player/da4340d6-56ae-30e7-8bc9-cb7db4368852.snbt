@@ -1,0 +1,17 @@
+{
+	id: "da4340d6-56ae-30e7-8bc9-cb7db4368852"
+	type: "player"
+	player_name: "FakeProngs"
+	ranks: {
+		da4340d6-56ae-30e7-8bc9-cb7db4368852: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "FakeProngs"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFCE59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
