@@ -530,3 +530,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jul2025 05:18:57.500] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [05Jul2025 05:18:58.527] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Phantom Lords': Processed 2 buildings, generated 32 tax (Guards: 0, Max Tax: Not Reached)
 [05Jul2025 05:18:58.528] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Colonia de zsebask': Processed 2 buildings, generated 32 tax (Guards: 0, Max Tax: Not Reached)
+[05Jul2025 06:18:57.553] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Phantom Lords - Buildings: 1, Generated: 12, Maintenance: 0, Final Balance: 204
+[05Jul2025 06:18:57.553] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Colonia de zsebask - Buildings: 1, Generated: 12, Maintenance: 0, Final Balance: 116
+[05Jul2025 06:18:57.555] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax generation cycle completed for all colonies
