@@ -1405,6 +1405,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-07-06 04:21:13 +0000",
       "minecraft:spider": "2025-07-06 02:53:16 +0000",
       "minecraft:zombie": "2025-07-06 02:10:15 +0000"
     },
@@ -1688,6 +1689,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-06 04:19:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-06 04:17:10 +0000"
@@ -1939,6 +1946,12 @@
       "has_bucket": "2025-07-06 02:55:38 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-07-06 04:19:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
@@ -2477,6 +2490,12 @@
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-07-06 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-06 04:27:29 +0000"
     },
     "done": true
   },
