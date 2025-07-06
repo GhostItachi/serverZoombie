@@ -1558,3 +1558,11 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [06Jul2025 06:49:24.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost has made the advancement [The Centerpiece]
 [06Jul2025 06:49:25.011] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Phantom Lords': Processed 1 buildings, generated 28 tax (Guards: 0, Max Tax: Not Reached)
 [06Jul2025 06:50:17.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> ayuntamiento ya
+[06Jul2025 06:57:18.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> duerme
+[06Jul2025 06:57:35.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> si
+[06Jul2025 06:57:42.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> y del otro
+[06Jul2025 06:57:49.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> falta antorcha al otro
+[06Jul2025 06:58:14.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> porque esta en claim
+[06Jul2025 06:58:19.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> el cuadro blanco
+[06Jul2025 07:00:21.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> ?
+[06Jul2025 07:02:15.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> hay un encantamiento que lo hcae{
