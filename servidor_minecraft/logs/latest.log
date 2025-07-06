@@ -540,3 +540,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jul2025 16:53:15.302] [Server thread/INFO] [Jade/]: Syncing config to Ghost (48f83307-567a-33d7-8604-3b22ee4c1b84)
 [06Jul2025 16:53:15.304] [Server thread/INFO] [structurize/]: New Server UUID 2526a153-742e-472d-837d-db787552d228
 [06Jul2025 16:53:15.381] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ghost downloaded
+[06Jul2025 17:11:46.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost has made the advancement [Not Today, Thank You]
+[06Jul2025 17:12:12.464] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/3352, l='ServerLevel[world]', x=9532.38, y=71.00, z=14395.24] died: Undead Knight was slain by Ghost
+[06Jul2025 17:23:27.808] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Phantom Lords - Buildings: 4, Generated: 52, Maintenance: 0, Final Balance: 560
+[06Jul2025 17:23:27.809] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Colonia de zsebask - Buildings: 1, Generated: 16, Maintenance: 0, Final Balance: 368
+[06Jul2025 17:23:27.812] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax generation cycle completed for all colonies
+[06Jul2025 17:32:07.285] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/7384, l='ServerLevel[world]', x=9497.65, y=64.65, z=14424.35] died: Honeyed Archer suffocated in a wall
+[06Jul2025 17:37:15.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost has made the advancement [Gone Bananas!]
