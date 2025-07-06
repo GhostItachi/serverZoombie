@@ -11579,3 +11579,29 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [06Jul2025 07:31:54.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> por cierto no construya nada dentro de las casa de los colonos ya que pueden que destruyan eso
 [06Jul2025 07:32:02.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> deja que reinicie
 [06Jul2025 07:32:09.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> por cierto no construya nada dentro de las casa de los colonos ya que pueden que destruyan eso
+[06Jul2025 07:33:57.994] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 07:33:57.994] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 07:33:57.994] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 07:33:58.005] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 07:33:58.005] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 07:33:58.005] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 07:33:58.022] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[06Jul2025 07:33:58.034] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[06Jul2025 07:33:58.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 07:33:58.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 07:35:01.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost has made the advancement [The Parrots and the Bats]
+[06Jul2025 07:37:47.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> duerme
+[06Jul2025 07:38:57.992] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 07:38:57.992] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 07:38:57.992] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 07:38:58.002] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 07:38:58.002] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 07:38:58.002] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 07:38:58.017] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[06Jul2025 07:38:58.030] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[06Jul2025 07:38:58.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 07:38:58.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 07:38:58.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> la luz hace que no salgan
+[06Jul2025 07:39:16.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> se
+[06Jul2025 07:39:26.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> [x:9504, y:67, z:15161, dim:minecraft:overworld]
+[06Jul2025 07:39:46.692] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=9573, y=72, z=14420}) doesn't have enough leaves around top most log

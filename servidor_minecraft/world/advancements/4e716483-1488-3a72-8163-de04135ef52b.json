@@ -6623,6 +6623,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/blockhuttavern": {
+    "criteria": {
+      "has_items": "2025-07-06 07:33:22 +0000"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/build_town_hall": {
     "criteria": {
       "town_hall": "2025-07-06 06:49:24 +0000"
