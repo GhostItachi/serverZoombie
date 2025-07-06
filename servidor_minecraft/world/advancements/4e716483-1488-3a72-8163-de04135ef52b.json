@@ -754,7 +754,8 @@
       "potato": "2025-07-06 04:10:15 +0000",
       "mutton": "2025-07-04 04:00:22 +0000",
       "bread": "2025-07-04 03:55:51 +0000",
-      "rotten_flesh": "2025-07-04 04:34:26 +0000"
+      "rotten_flesh": "2025-07-04 04:34:26 +0000",
+      "carrot": "2025-07-06 04:43:33 +0000"
     },
     "done": false
   },
@@ -5620,6 +5621,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-06 04:34:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-07-06 04:19:09 +0000"
@@ -5704,6 +5711,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-06 04:52:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-07-06 04:27:45 +0000"
@@ -5719,6 +5732,12 @@
   "minecraft:recipes/tools/brush": {
     "criteria": {
       "has_copper_ingot": "2025-07-06 04:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-06 04:34:49 +0000"
     },
     "done": true
   },
@@ -5770,6 +5789,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/blockhutshepherd": {
+    "criteria": {
+      "has_items": "2025-07-06 04:34:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-07-06 04:19:09 +0000"
@@ -5779,6 +5804,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-07-06 04:28:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-06 04:34:49 +0000"
     },
     "done": true
   },
@@ -5890,6 +5921,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/blockhutbaker": {
+    "criteria": {
+      "has_items": "2025-07-06 04:38:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-06 04:04:30 +0000"
@@ -5971,6 +6008,18 @@
   "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-06 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-06 04:34:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-06 04:34:49 +0000"
     },
     "done": true
   },

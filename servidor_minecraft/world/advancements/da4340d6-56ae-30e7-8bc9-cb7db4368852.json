@@ -3866,6 +3866,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-06 04:40:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-06 04:15:09 +0000"
@@ -3935,6 +3941,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-07-06 04:15:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-07-06 04:40:20 +0000"
     },
     "done": true
   },
@@ -4052,6 +4064,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-07-06 04:35:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-07-06 04:11:09 +0000"
@@ -4060,7 +4078,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "wheat": "2025-07-06 03:14:01 +0000"
+      "wheat": "2025-07-06 03:14:01 +0000",
+      "carrot": "2025-07-06 04:40:40 +0000"
     },
     "done": false
   },
@@ -4214,9 +4233,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-06 04:40:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-07-06 04:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutshepherd": {
+    "criteria": {
+      "has_items": "2025-07-06 04:47:28 +0000"
     },
     "done": true
   },
@@ -4262,6 +4293,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-07-06 04:43:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ice_from_freezing": {
     "criteria": {
       "has_water": "2025-07-06 04:15:29 +0000"
@@ -4298,6 +4335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-06 04:40:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-07-06 04:15:09 +0000"
@@ -4322,6 +4365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-07-06 04:48:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-07-06 04:15:09 +0000"
@@ -4331,6 +4380,18 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-07-06 04:11:14 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/white_paper_extra": {
+    "criteria": {
+      "has_material": "2025-07-06 04:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-06 04:35:57 +0000"
     },
     "done": true
   },
@@ -4367,6 +4428,12 @@
   "cfm:recipes/decorations/crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-06 04:15:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/paper_from_tree_bark": {
+    "criteria": {
+      "has_tree_bark": "2025-07-06 04:43:57 +0000"
     },
     "done": true
   },
@@ -4442,6 +4509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-06 04:29:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-07-06 04:11:11 +0000"
@@ -4502,6 +4575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-06 04:40:20 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/diorite_bridge": {
     "criteria": {
       "has_planks": "2025-07-06 04:11:14 +0000"
@@ -4511,6 +4590,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-07-06 02:49:35 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/paper_extra": {
+    "criteria": {
+      "has_material": "2025-07-06 04:48:28 +0000"
     },
     "done": true
   },
@@ -4532,6 +4617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-06 04:29:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-06 04:11:14 +0000"
@@ -4544,9 +4635,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-07-06 04:43:57 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/boss": {
     "criteria": {
       "sword": "2025-07-06 04:08:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-07-06 04:40:20 +0000"
     },
     "done": true
   },
@@ -4610,6 +4713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-07-06 04:48:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-06 04:11:14 +0000"
@@ -4661,6 +4770,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-06 04:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutschool": {
+    "criteria": {
+      "has_items": "2025-07-06 04:35:57 +0000"
     },
     "done": true
   },

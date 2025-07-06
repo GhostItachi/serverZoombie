@@ -2953,9 +2953,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
     },
     "done": true
   },
@@ -2965,9 +2977,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/polenta": {
     "criteria": {
       "has_corn": "2025-07-06 02:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
     },
     "done": true
   },
@@ -2980,6 +3016,12 @@
   "cfm:recipes/decorations/gray_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
     },
     "done": true
   },
@@ -3001,15 +3043,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-06 04:53:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-07-06 03:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-06 04:49:45 +0000"
     },
     "done": true
   },
@@ -3031,15 +3091,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
     },
     "done": true
   },
@@ -3052,6 +3142,18 @@
   "mcwdoors:recipes/birch": {
     "criteria": {
       "has_wood": "2025-07-06 03:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-06 04:49:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
     },
     "done": true
   },
@@ -3091,6 +3193,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-07-06 04:49:17 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-07-06 04:53:35 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/pumpkin": {
     "criteria": {
       "has_pumpkin": "2025-07-06 03:15:14 +0000"
@@ -3109,15 +3223,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
     },
     "done": true
   },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-07-06 04:55:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
       "has_pumpkin": "2025-07-06 03:15:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
     },
     "done": true
   },
@@ -3136,6 +3274,18 @@
   "minecolonies:recipes/food/tortillas": {
     "criteria": {
       "has_corn": "2025-07-06 02:36:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
     },
     "done": true
   },
@@ -3199,6 +3349,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/crimson_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
@@ -3229,9 +3385,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
     },
     "done": true
   },
@@ -3250,6 +3418,12 @@
   "cfm:recipes/decorations/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2025-07-06 04:49:17 +0000"
     },
     "done": true
   },
@@ -3301,6 +3475,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-07-06 03:21:43 +0000"
@@ -3313,6 +3493,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_mail_box": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
@@ -3322,6 +3508,12 @@
   "cfm:recipes/decorations/magenta_cooler": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
     },
     "done": true
   },
@@ -3349,9 +3541,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-06 04:49:45 +0000"
     },
     "done": true
   },
@@ -3361,15 +3565,63 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-06 04:49:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-07-06 04:53:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_mail_box": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_crate": {
     "criteria": {
       "has_planks": "2025-07-06 03:04:17 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/gold_stuff": {
+    "criteria": {
+      "has_wood": "2025-07-06 04:50:13 +0000"
     },
     "done": true
   },
@@ -3388,6 +3640,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-07-06 03:40:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-07-06 04:49:17 +0000"
     },
     "done": true
   },
@@ -3445,9 +3703,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-06 04:49:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-07-06 03:04:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-06 04:49:45 +0000"
     },
     "done": true
   },
@@ -3463,9 +3739,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
     },
     "done": true
   },
@@ -3529,6 +3829,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_birch_table": {
     "criteria": {
       "has_planks": "2025-07-06 03:04:17 +0000"
@@ -3550,6 +3862,12 @@
   "cfm:recipes/decorations/light_gray_cooler": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
     },
     "done": true
   },
@@ -3589,6 +3907,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-07-06 04:55:51 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_cooler": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
@@ -3613,6 +3937,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_green_boots": {
     "criteria": {
       "has_item": "2025-07-06 03:19:04 +0000"
@@ -3631,6 +3961,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/warped_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
@@ -3640,6 +3976,18 @@
   "cfm:recipes/decorations/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-06 04:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
     },
     "done": true
   },
@@ -3667,6 +4015,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/soy_corn_chowder": {
     "criteria": {
       "has_corn": "2025-07-06 02:36:37 +0000"
@@ -3691,9 +4045,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_green_helmet": {
     "criteria": {
       "has_item": "2025-07-06 03:19:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 04:30:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-06 04:50:13 +0000"
     },
     "done": true
   },
