@@ -1121,6 +1121,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/diorite": {
     "criteria": {
       "has_the_recipe": "2025-07-06 03:30:01 +0000"
@@ -1196,6 +1202,12 @@
   "cfm:recipes/decorations/brown_grill": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
     },
     "done": true
   },
@@ -1280,6 +1292,12 @@
   "cfm:recipes/decorations/fridge_dark": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
     },
     "done": true
   },
@@ -1380,6 +1398,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 02:24:01 +0000"
@@ -1395,6 +1419,18 @@
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
     },
     "done": true
   },
@@ -1512,6 +1548,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/iron_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-06 02:24:01 +0000"
@@ -1569,6 +1611,12 @@
   "cfm:recipes/decorations/white_grill": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
     },
     "done": true
   },
@@ -1644,6 +1692,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-07-06 03:48:28 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/tortillas": {
     "criteria": {
       "has_corn": "2025-07-06 02:54:29 +0000"
@@ -1653,6 +1707,18 @@
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
     },
     "done": true
   },
@@ -1944,6 +2010,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-07-06 03:48:28 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_trampoline": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
@@ -1986,6 +2058,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
@@ -2025,6 +2103,12 @@
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
     },
     "done": true
   },
@@ -2100,6 +2184,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_crate": {
     "criteria": {
       "has_planks": "2025-07-06 03:30:01 +0000"
@@ -2148,6 +2238,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-07-06 02:03:04 +0000"
@@ -2163,6 +2259,12 @@
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-06 03:24:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
     },
     "done": true
   },
@@ -2304,6 +2406,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 02:24:01 +0000"
@@ -2322,15 +2430,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/pink_trampoline": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
     },
     "done": true
   },
@@ -2442,6 +2568,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-07-06 02:54:29 +0000"
@@ -2508,6 +2640,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/misc/chainmailchestplate": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
@@ -2517,6 +2655,12 @@
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-06 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
     },
     "done": true
   },
@@ -2535,6 +2679,12 @@
   "minecolonies:recipes/food/cheese_ravioli": {
     "criteria": {
       "has_durum": "2025-07-06 02:56:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
     },
     "done": true
   },
@@ -2565,6 +2715,12 @@
   "mcwbridges:recipes/rope_oak_bridge": {
     "criteria": {
       "has_planks": "2025-07-06 03:01:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
     },
     "done": true
   },
@@ -2670,6 +2826,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron_tier_upgrade": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 02:24:01 +0000"
@@ -2691,6 +2853,18 @@
   "mcwbridges:recipes/oak_bridge_pier": {
     "criteria": {
       "has_planks": "2025-07-06 03:30:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
     },
     "done": true
   },
@@ -2751,6 +2925,12 @@
   "minecraft:recipes/building_blocks/dye_magenta_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-06 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
     },
     "done": true
   },
@@ -2862,6 +3042,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 02:24:01 +0000"
@@ -2883,6 +3069,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_shovel": "2025-07-06 02:27:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-07-06 03:48:28 +0000"
     },
     "done": true
   },
@@ -2946,6 +3138,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/soy_corn_chowder": {
     "criteria": {
       "has_corn": "2025-07-06 02:54:29 +0000"
@@ -2979,6 +3177,18 @@
   "cfm:recipes/decorations/red_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-07-06 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-06 03:46:50 +0000"
     },
     "done": true
   },

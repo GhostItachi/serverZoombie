@@ -903,3 +903,72 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jul2025 03:39:23.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> xd
 [06Jul2025 03:39:29.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> se murio xd
 [06Jul2025 03:39:31.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> uno constructor
+[06Jul2025 03:39:45.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> se acaba de morir uno
+[06Jul2025 03:40:46.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> lima q necesi
+[06Jul2025 03:40:49.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> q necesita
+[06Jul2025 03:40:57.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ya voy
+[06Jul2025 03:41:01.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost was shot by zsebask
+[06Jul2025 03:41:03.145] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 0256e290-8fa9-4ed5-86ab-f8b55478c0eb
+[06Jul2025 03:41:08.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ya voy
+[06Jul2025 03:41:09.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> XD
+[06Jul2025 03:41:23.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FakeProngs> diorita andesita granito
+[06Jul2025 03:41:34.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> cuantos stacks
+[06Jul2025 03:41:59.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> pt sirena
+[06Jul2025 03:42:25.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask has made the advancement [Tie me to the Mast]
+[06Jul2025 03:44:04.761] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player fbbad785-c5c5-4e5a-a87d-935cc6264b79
+[06Jul2025 03:44:04.782] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 03:44:04.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Over_30[/127.151.83.188:54625] logged in with entity id 60223 at (9545.823115247871, 72.1212968405392, 14408.593496503923)
+[06Jul2025 03:44:04.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Over_30 joined the game
+[06Jul2025 03:44:04.881] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Over_30 just logged in with id 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 03:44:04.882] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 4e716483-1488-3a72-8163-de04135ef52b logged in, ensuring war data is loaded
+[06Jul2025 03:44:04.883] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[06Jul2025 03:44:04.883] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 03:44:04.883] [Server thread/INFO] [Jade/]: Syncing config to Over_30 (4e716483-1488-3a72-8163-de04135ef52b)
+[06Jul2025 03:44:04.886] [ForkJoinPool-3-worker-9/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Over_30[4e716483-1488-3a72-8163-de04135ef52b]
+[06Jul2025 03:44:05.145] [ForkJoinPool-3-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/Over_30
+[06Jul2025 03:44:09.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> entro un pobre
+[06Jul2025 03:44:23.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> 3 pobres en el server
+[06Jul2025 03:44:40.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Over_30 was kicked for floating too long!
+[06Jul2025 03:44:40.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Over_30 lost connection: Disconnected
+[06Jul2025 03:44:40.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Over_30 left the game
+[06Jul2025 03:44:40.458] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Over_30[4e716483-1488-3a72-8163-de04135ef52b]
+[06Jul2025 03:44:40.458] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 4e716483-1488-3a72-8163-de04135ef52b logged out, ensuring war data is saved
+[06Jul2025 03:44:40.458] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 03:44:40.458] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[06Jul2025 03:44:40.509] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jul2025 03:45:11.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> no
+[06Jul2025 03:45:25.353] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@dd22c86[id=<null>,name=Over_30,properties={},legacy=false] (/127.151.83.188:34685) lost connection: Disconnected
+[06Jul2025 03:46:02.505] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f0cf4cc[id=<null>,name=Over_30,properties={},legacy=false] (/127.151.83.188:47283) lost connection: Disconnected
+[06Jul2025 03:46:03.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ya me voy
+[06Jul2025 03:46:06.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> vine por algo
+[06Jul2025 03:46:20.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> eso fue el de ahora lima
+[06Jul2025 03:46:31.852] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 454c1092-015c-4f3c-a3db-04fda8939c84
+[06Jul2025 03:46:31.866] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 03:46:31.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Over_30[/127.151.83.188:42527] logged in with entity id 61947 at (9545.823115247871, 72.1212968405392, 14408.593496503923)
+[06Jul2025 03:46:31.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Over_30 joined the game
+[06Jul2025 03:46:31.958] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Over_30 just logged in with id 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 03:46:31.958] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 4e716483-1488-3a72-8163-de04135ef52b logged in, ensuring war data is loaded
+[06Jul2025 03:46:31.958] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[06Jul2025 03:46:31.958] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 03:46:31.959] [Server thread/INFO] [Jade/]: Syncing config to Over_30 (4e716483-1488-3a72-8163-de04135ef52b)
+[06Jul2025 03:46:31.959] [ForkJoinPool-3-worker-10/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Over_30[4e716483-1488-3a72-8163-de04135ef52b]
+[06Jul2025 03:46:32.080] [ForkJoinPool-3-worker-10/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/Over_30
+[06Jul2025 03:46:32.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> igual ahorita pongo bambu lima
+[06Jul2025 03:47:34.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> si
+[06Jul2025 03:47:49.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> over
+[06Jul2025 03:47:55.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> te compro flechas
+[06Jul2025 03:47:57.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> me das?
+[06Jul2025 03:48:19.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> over
+[06Jul2025 03:48:22.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> te compro flechas
+[06Jul2025 03:48:23.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> over
+[06Jul2025 03:48:30.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> te doy un aldeano por flechas over
+[06Jul2025 03:48:34.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> give
+[06Jul2025 03:48:37.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> y te doy un aldeano
+[06Jul2025 03:48:50.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> aceptas over?
+[06Jul2025 03:48:58.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ñover
+[06Jul2025 03:49:02.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> tamare
+[06Jul2025 03:49:09.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> te doy un aldeano
+[06Jul2025 03:49:26.140] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Wilbur downloaded
+[06Jul2025 03:49:26.332] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://crafatar.com/skins/be677bcb-6540-4ab9-ae8b-4b259941cdcd downloaded
+[06Jul2025 03:49:26.333] [ForkJoinPool-3-worker-11/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loaded skin for player FakeProngs[da4340d6-56ae-30e7-8bc9-cb7db4368852]
+[06Jul2025 03:49:26.334] [ForkJoinPool-3-worker-12/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Caching file world/skin_changer/skins/da4340d6-56ae-30e7-8bc9-cb7db4368852

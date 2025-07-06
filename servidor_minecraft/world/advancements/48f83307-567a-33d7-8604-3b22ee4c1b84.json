@@ -3385,6 +3385,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-06 03:40:33 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_blinds": {
     "criteria": {
       "has_log": "2025-07-06 03:04:01 +0000"
