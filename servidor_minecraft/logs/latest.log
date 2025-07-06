@@ -615,3 +615,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jul2025 01:56:28.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost: Teleported Ghost to sadcruelberry]
 [06Jul2025 01:56:43.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost: Set the time to 1000]
 [06Jul2025 01:58:10.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sadcruelberry has made the advancement [Mine? Mine? Mine?]
+[06Jul2025 01:58:34.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ghost: Set own game mode to Survival Mode]
+[06Jul2025 02:00:02.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Ghost no longer a server operator
+[06Jul2025 02:05:53.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost has made the advancement [Fulfillment Comes Cheap]
+[06Jul2025 02:07:19.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sadcruelberry has made the advancement [Check Out the Guide]
