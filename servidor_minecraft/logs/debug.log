@@ -5319,3 +5319,26 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jul2025 17:48:27.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jul2025 17:51:13.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost has reached the goal [Level Up!]
 [06Jul2025 17:51:14.686] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Phantom Lords': Processed 1 buildings, generated 16 tax (Guards: 0, Max Tax: Not Reached)
+[06Jul2025 17:53:27.690] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 17:53:27.690] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 17:53:27.690] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 17:53:27.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 17:53:27.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 17:56:06.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ghost) moved wrongly! 0.6241544292279286
+[06Jul2025 17:56:06.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ghost) moved wrongly! 0.9376502980503574
+[06Jul2025 17:56:06.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ghost) moved wrongly! 1.2523736103266856
+[06Jul2025 17:56:06.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ghost) moved wrongly! 1.5684643068034347
+[06Jul2025 17:56:06.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ghost) moved wrongly! 0.28921355447528185
+[06Jul2025 17:56:06.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ghost) moved wrongly! 0.4365823260286561
+[06Jul2025 17:56:06.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ghost) moved wrongly! 0.43229875145880214
+[06Jul2025 17:56:14.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ghost) moved wrongly! 0.33216788371464645
+[06Jul2025 17:56:14.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ghost) moved wrongly! 0.6635350130800362
+[06Jul2025 17:56:14.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ghost) moved wrongly! 0.9168724239916628
+[06Jul2025 17:56:14.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ghost) moved wrongly! 0.9492367067487066
+[06Jul2025 17:56:14.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ghost) moved wrongly! 1.010708551559219
+[06Jul2025 17:56:14.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Ghost) moved wrongly! 0.3969161815039115
+[06Jul2025 17:58:27.696] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 17:58:27.697] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 17:58:27.697] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 17:58:27.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 17:58:27.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
