@@ -2224,6 +2224,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-06 05:55:49 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_grill": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
@@ -2974,6 +2980,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-06 05:55:20 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/veggie_soup": {
     "criteria": {
       "has_eggplant": "2025-07-06 02:55:48 +0000"
@@ -3067,6 +3079,12 @@
   "cfm:recipes/decorations/jungle_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-06 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-07-06 05:55:20 +0000"
     },
     "done": true
   },
@@ -3184,6 +3202,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-06 05:55:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-06 04:56:08 +0000"
@@ -3271,6 +3295,12 @@
   "cfm:recipes/decorations/stripped_oak_coffee_table": {
     "criteria": {
       "has_planks": "2025-07-06 03:30:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-06 05:55:49 +0000"
     },
     "done": true
   },
