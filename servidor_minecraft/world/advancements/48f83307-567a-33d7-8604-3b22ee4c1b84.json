@@ -5860,6 +5860,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/colony_banner": {
+    "criteria": {
+      "has_items": "2025-07-06 17:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-06 17:19:37 +0000"
@@ -5947,6 +5953,18 @@
   "cfm:recipes/decorations/jungle_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-07-06 17:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-06 17:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-07-06 17:39:57 +0000"
     },
     "done": true
   },
@@ -6199,6 +6217,12 @@
   "minecraft:recipes/decorations/jungle_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-06 17:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-06 17:39:57 +0000"
     },
     "done": true
   },

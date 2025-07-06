@@ -547,3 +547,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jul2025 17:23:27.812] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax generation cycle completed for all colonies
 [06Jul2025 17:32:07.285] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/7384, l='ServerLevel[world]', x=9497.65, y=64.65, z=14424.35] died: Honeyed Archer suffocated in a wall
 [06Jul2025 17:37:15.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost has made the advancement [Gone Bananas!]
+[06Jul2025 17:51:13.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost has reached the goal [Level Up!]
+[06Jul2025 17:51:14.686] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Phantom Lords': Processed 1 buildings, generated 16 tax (Guards: 0, Max Tax: Not Reached)
