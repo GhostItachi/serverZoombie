@@ -1755,3 +1755,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jul2025 20:31:52.248] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4624cba4[id=<null>,name=Over_30,properties={},legacy=false] (/127.151.83.188:41433) lost connection: Disconnected
 [06Jul2025 20:32:16.848] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3de0b63c[id=<null>,name=Over_30,properties={},legacy=false] (/127.151.83.188:44785) lost connection: Disconnected
 [06Jul2025 20:34:47.998] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@791fd435[id=<null>,name=Over_30,properties={},legacy=false] (/127.151.83.188:33763) lost connection: Disconnected
+[06Jul2025 20:42:05.350] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5b03e34a[id=<null>,name=Over_30,properties={},legacy=false] (/127.151.83.188:43933) lost connection: Disconnected
+[06Jul2025 20:42:05.398] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jul2025 20:44:41.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Jul2025 20:44:41.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1<--[HERE]
+[06Jul2025 20:44:45.098] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Server stopping. Saving tax data...
+[06Jul2025 20:44:45.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jul2025 20:44:45.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jul2025 20:44:45.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jul2025 20:44:45.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jul2025 20:44:46.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jul2025 20:44:46.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jul2025 20:44:46.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jul2025 20:44:46.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jul2025 20:44:46.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jul2025 20:44:46.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jul2025 20:44:46.483] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Jul2025 20:44:46.485] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[06Jul2025 20:44:46.487] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[06Jul2025 20:44:46.488] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
