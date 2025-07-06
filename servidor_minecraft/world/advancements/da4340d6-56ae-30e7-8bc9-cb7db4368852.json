@@ -2452,7 +2452,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-07-05 03:53:24 +0000"
+      "bread": "2025-07-05 03:53:24 +0000",
+      "melon_slice": "2025-07-06 05:03:18 +0000"
     },
     "done": false
   },
@@ -3872,6 +3873,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-07-06 05:08:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-06 04:15:09 +0000"
@@ -4013,6 +4020,12 @@
   "minecolonies:recipes/misc/blockhuthospital": {
     "criteria": {
       "has_items": "2025-07-06 04:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-06 05:08:03 +0000"
     },
     "done": true
   },
@@ -4317,6 +4330,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-07-06 05:08:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-07-06 03:56:30 +0000"
@@ -4452,6 +4471,18 @@
   "mcwbridges:recipes/diorite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-07-06 04:11:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_blinds": {
+    "criteria": {
+      "has_log": "2025-07-06 05:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-06 05:08:03 +0000"
     },
     "done": true
   },

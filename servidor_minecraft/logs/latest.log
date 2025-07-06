@@ -1278,3 +1278,32 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [06Jul2025 04:59:50.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> el otro es para hacer lo de colonial
 [06Jul2025 05:00:07.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> toma
 [06Jul2025 05:00:46.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> xd
+[06Jul2025 05:00:59.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> redstome quien tiene?
+[06Jul2025 05:01:01.860] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost lost connection: Disconnected
+[06Jul2025 05:01:01.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost left the game
+[06Jul2025 05:01:01.860] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
+[06Jul2025 05:01:01.861] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged out, ensuring war data is saved
+[06Jul2025 05:01:01.861] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 05:01:01.862] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[06Jul2025 05:02:25.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> xd
+[06Jul2025 05:03:54.096] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 183df297-7744-4d82-bacc-34fcb24fb7af
+[06Jul2025 05:03:54.107] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 05:03:54.107] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghost[/127.197.124.108:35923] logged in with entity id 106524 at (9544.67841367625, 66.0, 14353.257722071501)
+[06Jul2025 05:03:54.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost joined the game
+[06Jul2025 05:03:54.199] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ghost just logged in with id 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 05:03:54.199] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged in, ensuring war data is loaded
+[06Jul2025 05:03:54.199] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[06Jul2025 05:03:54.199] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 05:03:54.199] [Server thread/INFO] [Jade/]: Syncing config to Ghost (48f83307-567a-33d7-8604-3b22ee4c1b84)
+[06Jul2025 05:03:54.201] [ForkJoinPool-3-worker-16/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
+[06Jul2025 05:03:54.283] [ForkJoinPool-3-worker-16/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ghost downloaded
+[06Jul2025 05:05:10.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> yo pense que hoy es domingo
+[06Jul2025 05:05:20.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> osea ayer
+[06Jul2025 05:05:25.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> ustedes es sabado mmgv
+[06Jul2025 05:05:40.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> falta una hora para ustedes
+[06Jul2025 05:07:45.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> se
+[06Jul2025 05:08:24.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> caida
+[06Jul2025 05:09:30.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> ponte la que puse en stream de jose
+[06Jul2025 05:10:02.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> eso es para mejorar las herramientas
+[06Jul2025 05:10:23.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> ahi te dice lo que hace
+[06Jul2025 05:10:43.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> son zzz
