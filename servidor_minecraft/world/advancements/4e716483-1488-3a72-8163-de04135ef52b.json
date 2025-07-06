@@ -5699,6 +5699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-06 06:24:39 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/gold": {
     "criteria": {
       "has_gold_ingot": "2025-07-06 04:19:09 +0000"
@@ -6344,6 +6350,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2025-07-06 05:37:43 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutflorist": {
+    "criteria": {
+      "has_items": "2025-07-06 06:24:39 +0000"
     },
     "done": true
   },

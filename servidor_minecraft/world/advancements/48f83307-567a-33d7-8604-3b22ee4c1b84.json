@@ -4093,6 +4093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-07-06 06:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-07-06 05:40:34 +0000"
@@ -4159,6 +4165,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-07-06 06:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-07-06 06:26:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/floor_trap": {
     "criteria": {
       "has_iron": "2025-07-06 05:26:30 +0000"
@@ -4207,6 +4225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-07-06 06:26:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2025-07-06 05:46:28 +0000"
@@ -4222,6 +4246,12 @@
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-07-06 05:27:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-06 06:26:12 +0000"
     },
     "done": true
   },
@@ -4253,6 +4283,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-07-06 05:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-07-06 06:26:12 +0000"
     },
     "done": true
   },
@@ -4301,6 +4337,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-07-06 05:46:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-06 06:26:12 +0000"
     },
     "done": true
   },
@@ -4520,6 +4562,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-07-06 06:26:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_trampoline": {
     "criteria": {
       "has_iron": "2025-07-06 05:26:30 +0000"
@@ -4592,6 +4640,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-07-06 06:26:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-07-06 05:26:30 +0000"
@@ -4655,6 +4709,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 05:26:30 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-06 06:26:12 +0000"
     },
     "done": true
   },
@@ -4964,6 +5024,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-07-06 06:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-07-06 05:40:34 +0000"
@@ -5043,6 +5109,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-06 06:26:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_trampoline": {
     "criteria": {
       "has_iron": "2025-07-06 05:26:30 +0000"
@@ -5103,6 +5175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-06 06:26:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-07-06 05:41:30 +0000"
@@ -5118,6 +5196,12 @@
   "minecolonies:recipes/misc/blockhutlumberjackstone": {
     "criteria": {
       "has_items": "2025-07-06 05:46:16 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-07-06 06:26:12 +0000"
     },
     "done": true
   },

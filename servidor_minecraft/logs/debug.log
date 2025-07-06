@@ -10724,3 +10724,32 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [06Jul2025 06:20:22.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> el repartidor va al almacen y le da los item a los colonos
 [06Jul2025 06:21:19.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> tu los puedes ayudar a construir
 [06Jul2025 06:21:40.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> pide pala de madera
+[06Jul2025 06:22:31.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> como?
+[06Jul2025 06:22:42.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> mesa
+[06Jul2025 06:23:57.991] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 06:23:57.991] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 06:23:57.991] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 06:23:58.000] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 06:23:58.000] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 06:23:58.000] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 06:23:58.017] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[06Jul2025 06:23:58.031] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[06Jul2025 06:23:58.031] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 06:23:58.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 06:25:36.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> tierra ya
+[06Jul2025 06:26:55.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> que cosa
+[06Jul2025 06:27:25.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> se
+[06Jul2025 06:27:29.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> desactivalo
+[06Jul2025 06:27:49.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> podes usar otro shaders
+[06Jul2025 06:28:57.993] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 06:28:57.993] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 06:28:57.993] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 06:28:58.001] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 06:28:58.001] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 06:28:58.001] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 06:28:58.015] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[06Jul2025 06:28:58.028] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[06Jul2025 06:28:58.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 06:28:58.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 06:29:41.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> el que?
+[06Jul2025 06:31:10.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Over_30 has made the advancement [Alex's Mobs]
