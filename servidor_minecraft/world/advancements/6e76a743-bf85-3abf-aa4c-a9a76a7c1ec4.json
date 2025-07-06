@@ -1104,6 +1104,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/sentry": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
@@ -1113,6 +1119,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-07-06 02:03:04 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
     },
     "done": true
   },
@@ -1302,6 +1314,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_table": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blinds": {
     "criteria": {
       "has_wood": "2025-07-06 03:01:19 +0000"
@@ -1460,6 +1478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-07-06 02:55:38 +0000"
@@ -1569,6 +1593,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_blinds": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-07-06 05:42:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-06 02:55:38 +0000"
@@ -1611,6 +1647,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_chair": {
+    "criteria": {
+      "has_planks": "2025-07-06 05:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-07-06 03:21:41 +0000"
@@ -1638,6 +1680,12 @@
   "cfm:recipes/decorations/lime_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-07-06 02:55:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_desk": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
     },
     "done": true
   },
@@ -1948,6 +1996,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-06 05:42:41 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-07-06 03:35:30 +0000"
@@ -1963,6 +2017,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
     },
     "done": true
   },
@@ -1993,6 +2053,12 @@
   "cfm:recipes/decorations/gray_grill": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_crate": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
     },
     "done": true
   },
@@ -2176,6 +2242,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_coffee_table": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/mint_tea": {
+    "criteria": {
+      "has_mint": "2025-07-06 05:43:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
@@ -2191,6 +2269,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-06 05:42:41 +0000"
     },
     "done": true
   },
@@ -2614,6 +2698,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/food/fish_n_chips": {
     "criteria": {
       "has_durum": "2025-07-06 02:56:05 +0000"
@@ -2794,9 +2884,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_crate": {
+    "criteria": {
+      "has_planks": "2025-07-06 05:42:41 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blackstone": {
     "criteria": {
       "has_the_recipe": "2025-07-06 03:30:01 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-07-06 05:42:41 +0000"
     },
     "done": true
   },
@@ -2845,6 +2947,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-07-06 04:02:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-06 05:42:41 +0000"
     },
     "done": true
   },
@@ -2908,6 +3016,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 02:24:01 +0000"
@@ -2917,6 +3031,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-07-06 03:01:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
     },
     "done": true
   },
@@ -3001,6 +3121,12 @@
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-07-06 03:01:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
     },
     "done": true
   },
@@ -3166,6 +3292,18 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/mint_jelly": {
+    "criteria": {
+      "has_mint": "2025-07-06 05:43:48 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-07-06 05:42:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 02:24:01 +0000"
@@ -3187,6 +3325,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_desk": {
+    "criteria": {
+      "has_planks": "2025-07-06 05:42:41 +0000"
     },
     "done": true
   },
@@ -3223,6 +3367,12 @@
   "domum_ornamentum:recipes/decorations/light_blue_floating_carpet": {
     "criteria": {
       "has_string": "2025-07-06 04:02:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_chair": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
     },
     "done": true
   },
@@ -3274,6 +3424,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_table": {
+    "criteria": {
+      "has_planks": "2025-07-06 05:42:41 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/mangrove": {
     "criteria": {
       "has_the_recipe": "2025-07-06 03:30:01 +0000"
@@ -3289,6 +3445,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-07-06 05:01:08 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
     },
     "done": true
   },
@@ -3367,6 +3529,12 @@
   "mcwwindows:recipes/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-07-06 03:30:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
     },
     "done": true
   },
@@ -3599,6 +3767,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-07-06 03:30:01 +0000"
@@ -3627,6 +3801,12 @@
   "mcwwindows:recipes/prismarine": {
     "criteria": {
       "has_the_recipe": "2025-07-06 03:30:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_drawer": {
+    "criteria": {
+      "has_log": "2025-07-06 05:42:41 +0000"
     },
     "done": true
   },
