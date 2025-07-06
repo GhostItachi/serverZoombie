@@ -4094,6 +4094,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/blockhutbaker": {
+    "criteria": {
+      "has_items": "2025-07-06 05:12:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-07-06 05:08:17 +0000"
@@ -4104,6 +4110,18 @@
     "criteria": {
       "has_item1_domum_ornamentum_beige_bricks": "2025-07-06 05:08:34 +0000",
       "has_item2_domum_ornamentum_beige_bricks": "2025-07-06 05:08:34 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutfarmer": {
+    "criteria": {
+      "has_items": "2025-07-06 05:12:31 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutschool": {
+    "criteria": {
+      "has_items": "2025-07-06 05:12:31 +0000"
     },
     "done": true
   },

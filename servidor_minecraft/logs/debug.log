@@ -10311,3 +10311,58 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [06Jul2025 05:10:02.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> eso es para mejorar las herramientas
 [06Jul2025 05:10:23.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> ahi te dice lo que hace
 [06Jul2025 05:10:43.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> son zzz
+[06Jul2025 05:11:27.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> baja le volumen
+[06Jul2025 05:12:27.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> si rompe
+[06Jul2025 05:12:52.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> amigo esta cheto
+[06Jul2025 05:13:13.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FakeProngs> pon las tuyas entonces mmgv
+[06Jul2025 05:13:27.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> hagan palos un monton
+[06Jul2025 05:13:37.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Over_30 has made the advancement [What a Deal!]
+[06Jul2025 05:13:58.015] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 05:13:58.015] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 05:13:58.015] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 05:13:58.025] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4
+[06Jul2025 05:13:58.025] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 05:13:58.025] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4
+[06Jul2025 05:13:58.032] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player da4340d6-56ae-30e7-8bc9-cb7db4368852
+[06Jul2025 05:13:58.032] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 05:13:58.032] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player da4340d6-56ae-30e7-8bc9-cb7db4368852
+[06Jul2025 05:13:58.038] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 05:13:58.038] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 05:13:58.038] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 05:13:58.060] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[06Jul2025 05:13:58.073] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[06Jul2025 05:13:58.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 05:13:58.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 05:15:16.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> jose has palos
+[06Jul2025 05:15:26.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> muchos
+[06Jul2025 05:15:52.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> dejo hachas de piedra en cofres como 4
+[06Jul2025 05:17:15.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> hay un aldeanos queda cuarzo
+[06Jul2025 05:17:24.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> el albañil
+[06Jul2025 05:17:39.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> este mmgv
+[06Jul2025 05:17:45.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> falta ponerlo
+[06Jul2025 05:18:03.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> la granja de hierro
+[06Jul2025 05:18:58.007] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 05:18:58.007] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 05:18:58.007] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 05:18:58.016] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4
+[06Jul2025 05:18:58.016] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 05:18:58.016] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4
+[06Jul2025 05:18:58.023] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player da4340d6-56ae-30e7-8bc9-cb7db4368852
+[06Jul2025 05:18:58.023] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 05:18:58.023] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player da4340d6-56ae-30e7-8bc9-cb7db4368852
+[06Jul2025 05:18:58.029] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 05:18:58.029] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 05:18:58.029] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 05:18:58.050] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[06Jul2025 05:18:58.062] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[06Jul2025 05:18:58.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 05:18:58.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 05:18:58.139] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Phantom Lords - Buildings: 1, Generated: 12, Maintenance: 0, Final Balance: 284
+[06Jul2025 05:18:58.140] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Colonia de zsebask - Buildings: 1, Generated: 12, Maintenance: 0, Final Balance: 244
+[06Jul2025 05:18:58.140] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax generation cycle completed for all colonies
+[06Jul2025 05:19:57.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> si se puede
+[06Jul2025 05:20:07.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> pass?
+[06Jul2025 05:20:24.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> securitycraft
+[06Jul2025 05:20:52.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> hierro
+[06Jul2025 05:20:56.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> se hace con eso
+[06Jul2025 05:21:11.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> se
