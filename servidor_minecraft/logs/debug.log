@@ -10619,3 +10619,48 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=rop
 [06Jul2025 06:00:24.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> dime sadcruelberry
 [06Jul2025 06:00:54.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> dime
 [06Jul2025 06:01:11.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> comparte
+[06Jul2025 06:03:58.006] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 06:03:58.006] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 06:03:58.006] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 06:03:58.016] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player da4340d6-56ae-30e7-8bc9-cb7db4368852
+[06Jul2025 06:03:58.016] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 06:03:58.016] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player da4340d6-56ae-30e7-8bc9-cb7db4368852
+[06Jul2025 06:03:58.023] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 06:03:58.023] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 06:03:58.023] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 06:03:58.030] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4
+[06Jul2025 06:03:58.030] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 06:03:58.030] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4
+[06Jul2025 06:03:58.048] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[06Jul2025 06:03:58.061] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[06Jul2025 06:03:58.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 06:03:58.085] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 06:08:19.748] [Server thread/DEBUG] [minecolonies/]: Colony 1 - new Building com.minecolonies.building.builder for Block{minecolonies:blockhutbuilder} at BlockPos{x=9538, y=74, z=14388}
+[06Jul2025 06:08:19.754] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[06Jul2025 06:08:19.999] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Phantom Lords': Processed 1 buildings, generated 8 tax (Guards: 0, Max Tax: Not Reached)
+[06Jul2025 06:08:58.004] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 06:08:58.004] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 06:08:58.004] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 4e716483-1488-3a72-8163-de04135ef52b
+[06Jul2025 06:08:58.014] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player da4340d6-56ae-30e7-8bc9-cb7db4368852
+[06Jul2025 06:08:58.014] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 06:08:58.014] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player da4340d6-56ae-30e7-8bc9-cb7db4368852
+[06Jul2025 06:08:58.021] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 06:08:58.021] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 06:08:58.021] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 48f83307-567a-33d7-8604-3b22ee4c1b84
+[06Jul2025 06:08:58.028] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4
+[06Jul2025 06:08:58.028] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 06:08:58.028] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4
+[06Jul2025 06:08:58.046] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[06Jul2025 06:08:58.058] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[06Jul2025 06:08:58.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 06:08:58.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 06:08:58.269] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=9538, y=74, z=14388} of type builder
+[06Jul2025 06:08:59.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sadcruelberry lost connection: Timed out
+[06Jul2025 06:08:59.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sadcruelberry left the game
+[06Jul2025 06:08:59.899] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player sadcruelberry[6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4]
+[06Jul2025 06:08:59.899] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4 logged out, ensuring war data is saved
+[06Jul2025 06:08:59.899] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 06:08:59.899] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[06Jul2025 06:08:59.904] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4
+[06Jul2025 06:08:59.904] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 06:08:59.904] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4
