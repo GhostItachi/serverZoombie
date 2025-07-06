@@ -1074,7 +1074,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-04 04:53:50 +0000",
       "minecraft:spider": "2025-07-04 04:53:14 +0000",
-      "minecraft:zombie": "2025-07-04 03:58:20 +0000"
+      "minecraft:zombie": "2025-07-04 03:58:20 +0000",
+      "minecraft:zombie_villager": "2025-07-06 02:35:35 +0000"
     },
     "done": false
   },
@@ -2916,9 +2917,51 @@
     },
     "done": true
   },
+  "minecolonies:recipes/food/polenta": {
+    "criteria": {
+      "has_corn": "2025-07-06 02:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/tortillas": {
+    "criteria": {
+      "has_corn": "2025-07-06 02:36:37 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-07-06 02:50:45 +0000"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/fulfill_request": {
     "criteria": {
       "click_gui_button_fulfill": "2025-07-06 02:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/corn_chowder": {
+    "criteria": {
+      "has_corn": "2025-07-06 02:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-06 02:51:09 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/cornmeal": {
+    "criteria": {
+      "has_corn": "2025-07-06 02:36:37 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/soy_corn_chowder": {
+    "criteria": {
+      "has_corn": "2025-07-06 02:36:37 +0000"
     },
     "done": true
   },
