@@ -799,3 +799,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jul2025 03:07:54.099] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged out, ensuring war data is saved
 [06Jul2025 03:07:54.099] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
 [06Jul2025 03:07:54.099] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[06Jul2025 03:09:39.703] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d887a7a[id=<null>,name=zsebask,properties={},legacy=false] (/127.120.187.36:33527) lost connection: Disconnected
+[06Jul2025 03:09:39.753] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[06Jul2025 03:09:39.998] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Colonia de zsebask': Processed 1 buildings, generated 8 tax (Guards: 0, Max Tax: Not Reached)
+[06Jul2025 03:10:18.000] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7eed0c83[id=<null>,name=zsebask,properties={},legacy=false] (/127.120.187.36:60623) lost connection: Disconnected
+[06Jul2025 03:10:53.748] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66f4e36d[id=<null>,name=zsebask,properties={},legacy=false] (/127.120.187.36:54601) lost connection: Disconnected
+[06Jul2025 03:11:04.248] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player f87c259f-a955-4430-a341-47063dfbbdad
+[06Jul2025 03:11:04.265] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 03:11:04.265] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zsebask[/127.120.187.36:39331] logged in with entity id 45592 at (9547.5, 57.0, 15283.5)
+[06Jul2025 03:11:04.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask joined the game
+[06Jul2025 03:11:04.368] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zsebask just logged in with id a9075875-f090-3eeb-8044-ed360391daea
+[06Jul2025 03:11:04.368] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged in, ensuring war data is loaded
+[06Jul2025 03:11:04.368] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[06Jul2025 03:11:04.369] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[06Jul2025 03:11:04.369] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 03:11:04.369] [Server thread/INFO] [Jade/]: Syncing config to zsebask (a9075875-f090-3eeb-8044-ed360391daea)
+[06Jul2025 03:11:04.597] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zsebask
+[06Jul2025 03:11:21.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> lima necesitas algo mas?
+[06Jul2025 03:11:29.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> okey
+[06Jul2025 03:11:33.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ire a matar a Dios
+[06Jul2025 03:11:45.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> que ofreces?
+[06Jul2025 03:11:53.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> XD
+[06Jul2025 03:12:01.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> grava sobra aca tmb
+[06Jul2025 03:12:29.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> quieres acompañarme a matar aDios lima?
+[06Jul2025 03:12:47.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> matare a Dios o Dios me matara ami?
+[06Jul2025 03:13:26.151] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13297, l='ServerLevel[world]', x=9561.32, y=61.01, z=15472.77, removed=DISCARDED]
+[06Jul2025 03:13:39.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> se me perdio DIo
+[06Jul2025 03:14:01.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FakeProngs has made the advancement [A Seedy Place]
+[06Jul2025 03:14:06.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ya encontre a Dios
+[06Jul2025 03:14:21.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> dejame sandias
+[06Jul2025 03:14:23.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> en el cofre
+[06Jul2025 03:16:32.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask has completed the challenge [Praise the Sun]
+[06Jul2025 03:16:35.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost drowned
+[06Jul2025 03:16:37.210] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 0ee31ff2-2d2b-4bdd-98ef-b8375b56b36e
+[06Jul2025 03:16:50.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> mate al DIos del sol
+[06Jul2025 03:16:55.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ez
+[06Jul2025 03:17:05.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> una monda
+[06Jul2025 03:18:58.139] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Phantom Lords - Buildings: 1, Generated: 12, Maintenance: 0, Final Balance: 260
+[06Jul2025 03:18:58.139] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Colonia de zsebask - Buildings: 1, Generated: 12, Maintenance: 0, Final Balance: 220
+[06Jul2025 03:18:58.139] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax generation cycle completed for all colonies
+[06Jul2025 03:19:03.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost has made the advancement [Sea? Not a Problem]

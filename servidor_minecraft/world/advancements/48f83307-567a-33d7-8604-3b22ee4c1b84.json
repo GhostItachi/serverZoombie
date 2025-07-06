@@ -2947,6 +2947,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-07-06 03:15:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/brown_kitchen_drawer": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
@@ -3061,6 +3067,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-07-06 03:15:14 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "wheat": "2025-07-06 02:56:29 +0000"
@@ -3076,6 +3088,12 @@
   "cfm:recipes/decorations/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-07-06 03:15:14 +0000"
     },
     "done": true
   },
@@ -3337,9 +3355,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-07-06 03:15:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/purple_cooler": {
     "criteria": {
       "has_chest": "2025-07-06 03:01:18 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/veggie_soup": {
+    "criteria": {
+      "has_eggplant": "2025-07-06 03:18:41 +0000"
     },
     "done": true
   },
