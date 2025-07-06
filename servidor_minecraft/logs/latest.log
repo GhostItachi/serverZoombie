@@ -1007,3 +1007,94 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jul2025 03:59:46.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> todo es con cuarzo
 [06Jul2025 03:59:47.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> go
 [06Jul2025 03:59:48.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> god
+[06Jul2025 04:00:29.945] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea changed dimension, verifying war data persistence
+[06Jul2025 04:00:37.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jul2025 04:00:41.935] [Worker-Main-21/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[06Jul2025 04:00:41.958] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Jul2025 04:00:41.958] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Jul2025 04:00:41.958] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Jul2025 04:01:28.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> nehter
+[06Jul2025 04:01:41.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> lima
+[06Jul2025 04:01:49.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> igual fortuna no tengo se me complica los materiales
+[06Jul2025 04:02:15.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> la andesita ps si
+[06Jul2025 04:02:18.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> la diorita mas o menos
+[06Jul2025 04:02:21.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> y el granito no tanto
+[06Jul2025 04:02:34.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> tmr
+[06Jul2025 04:02:59.627] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea changed dimension, verifying war data persistence
+[06Jul2025 04:03:23.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> XD
+[06Jul2025 04:05:12.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> lima
+[06Jul2025 04:05:22.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> puedes hacer cultivos de zanahorias?
+[06Jul2025 04:05:24.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> pero muchas
+[06Jul2025 04:06:33.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> 3 stacks?
+[06Jul2025 04:06:35.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> segura?
+[06Jul2025 04:06:41.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> de lo q pediste
+[06Jul2025 04:07:15.015] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/13297, l='ServerLevel[world]', x=9561.32, y=61.01, z=15472.77, removed=DISCARDED]
+[06Jul2025 04:07:20.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> lima
+[06Jul2025 04:07:23.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> farmea carbon
+[06Jul2025 04:07:28.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> y pones antorcha
+[06Jul2025 04:07:29.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> por todo
+[06Jul2025 04:08:14.023] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Bernard the Thirsty'/73341, l='ServerLevel[world]', x=9546.75, y=62.00, z=15183.23] died: Bernard the Thirsty was slain by FakeProngs
+[06Jul2025 04:08:15.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FakeProngs has completed the challenge [He Wasn't So Strong]
+[06Jul2025 04:08:16.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FakeProngs has made the advancement [Far From Perfect]
+[06Jul2025 04:09:11.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> diorita no veo
+[06Jul2025 04:09:33.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> voy a robarles a los pobres diorita
+[06Jul2025 04:10:56.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> ya tengo
+[06Jul2025 04:10:57.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> falta diorita
+[06Jul2025 04:12:06.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sadcruelberry was shot by Undead Knight
+[06Jul2025 04:12:07.610] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask lost connection: Disconnected
+[06Jul2025 04:12:07.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask left the game
+[06Jul2025 04:12:07.611] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[06Jul2025 04:12:07.611] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged out, ensuring war data is saved
+[06Jul2025 04:12:08.520] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 5d8d23ab-a0ad-4ec0-8d92-10884cd21195
+[06Jul2025 04:12:13.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> dime
+[06Jul2025 04:12:18.771] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/73861, l='ServerLevel[world]', x=9552.01, y=72.00, z=14399.37] died: Undead Knight was killed by magic whilst trying to escape Ghost
+[06Jul2025 04:14:00.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9542, y=69, z=14369} BlockPos{x=9541, y=67, z=14369}
+[06Jul2025 04:14:11.215] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@dd11a31[id=<null>,name=zsebask,properties={},legacy=false] (/127.120.187.36:40641) lost connection: Disconnected
+[06Jul2025 04:14:37.705] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 1ed0d791-96c9-4675-8731-1222b76f0a42
+[06Jul2025 04:14:37.726] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 04:14:37.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zsebask[/127.120.187.36:36195] logged in with entity id 78535 at (9524.14171194103, 64.9375, 15277.380247943569)
+[06Jul2025 04:14:37.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask joined the game
+[06Jul2025 04:14:37.816] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zsebask just logged in with id a9075875-f090-3eeb-8044-ed360391daea
+[06Jul2025 04:14:37.816] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged in, ensuring war data is loaded
+[06Jul2025 04:14:37.816] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[06Jul2025 04:14:37.816] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[06Jul2025 04:14:37.817] [Server thread/INFO] [Jade/]: Syncing config to zsebask (a9075875-f090-3eeb-8044-ed360391daea)
+[06Jul2025 04:14:37.827] [ForkJoinPool-3-worker-13/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[06Jul2025 04:14:38.022] [ForkJoinPool-3-worker-13/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zsebask
+[06Jul2025 04:15:10.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> no ps
+[06Jul2025 04:15:15.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> voy a hacer una maquina de minera
+[06Jul2025 04:15:16.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ya fue
+[06Jul2025 04:15:21.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> q paja
+[06Jul2025 04:15:30.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> una maquina q duplique tnt
+[06Jul2025 04:15:40.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> por eso queria el create
+[06Jul2025 04:15:47.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> p a minar
+[06Jul2025 04:15:54.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> ya vez seba
+[06Jul2025 04:15:55.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> no
+[06Jul2025 04:15:57.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> over
+[06Jul2025 04:16:00.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> hago una maquina de tnt
+[06Jul2025 04:16:02.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> y ya xd
+[06Jul2025 04:16:05.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> es lo mismo
+[06Jul2025 04:16:10.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ya por eso
+[06Jul2025 04:16:27.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> pta diorita
+[06Jul2025 04:17:13.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> divedelo en 64
+[06Jul2025 04:17:25.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> fucking diorita
+[06Jul2025 04:17:32.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> no encuentro diorita xd
+[06Jul2025 04:17:37.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ni yo
+[06Jul2025 04:17:40.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> toca hacer el crafteo
+[06Jul2025 04:17:54.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=9593, y=67, z=14326} BlockPos{x=9594, y=66, z=14326}
+[06Jul2025 04:18:04.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> si
+[06Jul2025 04:18:07.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> y no hay xd
+[06Jul2025 04:18:25.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Over_30 has made the advancement [Amateur Archaeologist]
+[06Jul2025 04:18:34.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> q te salio over
+[06Jul2025 04:18:42.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> q amuleto
+[06Jul2025 04:18:48.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> quito 20 ahora con el puño
+[06Jul2025 04:18:58.215] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Phantom Lords - Buildings: 1, Generated: 12, Maintenance: 0, Final Balance: 272
+[06Jul2025 04:18:58.215] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Colonia de zsebask - Buildings: 1, Generated: 12, Maintenance: 0, Final Balance: 232
+[06Jul2025 04:18:58.216] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax generation cycle completed for all colonies
+[06Jul2025 04:19:12.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> 20 q
+[06Jul2025 04:19:15.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Over_30> cora
+[06Jul2025 04:19:21.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sadcruelberry has made the advancement [The Parrots and the Bats]
+[06Jul2025 04:19:48.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> xd?
+[06Jul2025 04:19:51.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> q amuleto de mierda
+[06Jul2025 04:20:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> no
+[06Jul2025 04:20:02.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> lima
