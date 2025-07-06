@@ -3865,6 +3865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-07-06 03:23:27 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/misc/blockhutfarmerstone": {
     "criteria": {
       "has_items": "2025-07-06 02:18:51 +0000"
