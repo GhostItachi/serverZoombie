@@ -1898,6 +1898,7 @@
       "minecraft:skeleton": "2025-07-04 04:33:01 +0000",
       "minecraft:spider": "2025-07-04 04:15:42 +0000",
       "minecraft:creeper": "2025-07-05 03:50:43 +0000",
+      "minecraft:husk": "2025-07-06 21:09:58 +0000",
       "minecraft:cave_spider": "2025-07-05 04:07:51 +0000",
       "minecraft:enderman": "2025-07-06 04:05:32 +0000",
       "minecraft:zombie": "2025-07-04 04:15:46 +0000",
@@ -6623,6 +6624,24 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/build_town_hall": {
+    "criteria": {
+      "town_hall": "2025-07-06 06:49:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2025-07-06 07:26:27 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhuttavern": {
+    "criteria": {
+      "has_items": "2025-07-06 07:33:22 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/trapped_iron_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-07-06 07:41:24 +0000"
@@ -6638,12 +6657,6 @@
   "ironchest:recipes/decorations/chests/trapped_copper_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-07-06 07:41:24 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/build_citizen": {
-    "criteria": {
-      "citizens_hut": "2025-07-06 07:48:25 +0000"
     },
     "done": true
   },
@@ -6665,12 +6678,6 @@
     },
     "done": true
   },
-  "minecolonies:recipes/misc/blockhuttavern": {
-    "criteria": {
-      "has_items": "2025-07-06 07:33:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-07-06 07:41:24 +0000"
@@ -6683,15 +6690,21 @@
     },
     "done": true
   },
-  "minecolonies:minecolonies/build_town_hall": {
+  "minecolonies:minecolonies/build_citizen": {
     "criteria": {
-      "town_hall": "2025-07-06 06:49:24 +0000"
+      "citizens_hut": "2025-07-06 07:48:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_copper": {
+  "lootr:root": {
     "criteria": {
-      "has_raw_copper_block": "2025-07-06 07:26:27 +0000"
+      "always_true": "2025-07-06 20:49:01 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-07-06 21:10:00 +0000"
     },
     "done": true
   },
