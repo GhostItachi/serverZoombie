@@ -5513,6 +5513,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-06 05:38:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-06 04:27:45 +0000"
@@ -5522,6 +5528,12 @@
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-07-06 05:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-07-06 05:37:58 +0000"
     },
     "done": true
   },
@@ -5546,6 +5558,12 @@
   "cfm:recipes/decorations/brown_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-07-06 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-07-06 05:37:58 +0000"
     },
     "done": true
   },
@@ -5651,6 +5669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-06 05:29:50 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/upgrades/wood_to_copper_chest_upgrade": {
     "criteria": {
       "has_copper_ingot": "2025-07-06 04:19:03 +0000"
@@ -5687,6 +5711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-06 05:37:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-07-06 04:19:06 +0000"
@@ -5714,6 +5744,12 @@
   "cfm:recipes/decorations/orange_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-07-06 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-07-06 05:37:43 +0000"
     },
     "done": true
   },
@@ -5747,6 +5783,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-07-06 05:37:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-07-06 04:27:45 +0000"
@@ -5768,6 +5810,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-07-06 04:34:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-06 05:37:43 +0000"
     },
     "done": true
   },
@@ -5831,6 +5879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-06 05:29:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-07-06 04:19:09 +0000"
@@ -5849,9 +5903,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-06 05:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-07-06 05:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-06 05:37:58 +0000"
     },
     "done": true
   },
@@ -5891,6 +5957,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-06 05:38:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-07-06 04:27:45 +0000"
@@ -5900,6 +5972,12 @@
   "cfm:recipes/decorations/green_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-07-06 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-06 05:38:34 +0000"
     },
     "done": true
   },
@@ -6023,6 +6101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-06 05:37:58 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/decorations/chests/vanilla_copper_chest": {
     "criteria": {
       "has_copper_ingot": "2025-07-06 04:19:03 +0000"
@@ -6044,6 +6128,18 @@
   "cfm:recipes/decorations/light_gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-07-06 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-07-06 05:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-06 05:37:58 +0000"
     },
     "done": true
   },
@@ -6077,9 +6173,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-07-06 05:38:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2025-07-06 05:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-07-06 05:37:43 +0000"
     },
     "done": true
   },
@@ -6110,6 +6218,24 @@
   "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-07-06 04:27:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-07-06 05:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-07-06 05:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-07-06 05:37:58 +0000"
     },
     "done": true
   },

@@ -1146,6 +1146,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-07-06 05:25:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2025-07-06 03:50:43 +0000"
@@ -1197,6 +1203,12 @@
   "travelersbackpack:recipes/misc/backpack_tank": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-06 05:34:21 +0000"
     },
     "done": true
   },
@@ -1478,6 +1490,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-06 05:36:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-06 03:46:50 +0000"
@@ -1487,6 +1505,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-06 05:27:03 +0000"
     },
     "done": true
   },
@@ -1864,6 +1888,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-06 05:36:18 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/blue_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-06 03:46:50 +0000"
@@ -2209,6 +2239,12 @@
   "cfm:recipes/decorations/light_blue_trampoline": {
     "criteria": {
       "has_iron": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-06 05:36:18 +0000"
     },
     "done": true
   },
@@ -3467,6 +3503,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-06 05:34:21 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/bricks": {
     "criteria": {
       "has_the_recipe": "2025-07-06 03:30:01 +0000"
@@ -3491,9 +3533,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-07-06 05:36:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-07-06 02:24:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-06 05:36:18 +0000"
     },
     "done": true
   },
