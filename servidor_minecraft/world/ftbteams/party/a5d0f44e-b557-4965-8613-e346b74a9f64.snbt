@@ -1,0 +1,20 @@
+{
+	id: "a5d0f44e-b557-4965-8613-e346b74a9f64"
+	type: "party"
+	owner: "4e716483-1488-3a72-8163-de04135ef52b"
+	ranks: {
+		4e716483-1488-3a72-8163-de04135ef52b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Phanton Lord"
+		"ftbteams:description": ""
+		"ftbteams:color": "#ECFF51"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1751861650763L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Over_30\"}]}" }
+		{ from: "4e716483-1488-3a72-8163-de04135ef52b", date: 1751861854787L, text: "{\"text\":\"asdasd\"}" }
+	]
+	extra: { }
+}

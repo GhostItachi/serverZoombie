@@ -2,9 +2,7 @@
 	id: "4e716483-1488-3a72-8163-de04135ef52b"
 	type: "player"
 	player_name: "Over_30"
-	ranks: {
-		4e716483-1488-3a72-8163-de04135ef52b: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Over_30"
 		"ftbteams:description": ""

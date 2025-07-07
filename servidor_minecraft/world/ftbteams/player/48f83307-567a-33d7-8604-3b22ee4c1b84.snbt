@@ -8,10 +8,10 @@
 	properties: {
 		"ftbteams:display_name": "Ghost"
 		"ftbteams:description": ""
-		"ftbteams:color": "#FF59B9"
+		"ftbteams:color": "#000000"
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
-	message_history: [ ]
+	message_history: [{ from: "48f83307-567a-33d7-8604-3b22ee4c1b84", date: 1751862187460L, text: "{\"text\":\"Buenos dias\"}" }]
 	extra: { }
 }
