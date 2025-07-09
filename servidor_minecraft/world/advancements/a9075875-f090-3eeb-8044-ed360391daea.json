@@ -1920,6 +1920,7 @@
       "minecraft:old_growth_pine_taiga": "2025-07-05 00:38:05 +0000",
       "minecraft:taiga": "2025-07-04 18:54:34 +0000",
       "minecraft:frozen_river": "2025-07-04 18:19:45 +0000",
+      "minecraft:birch_forest": "2025-07-09 03:38:46 +0000",
       "minecraft:windswept_hills": "2025-07-09 00:58:42 +0000",
       "minecraft:savanna_plateau": "2025-07-05 01:58:20 +0000",
       "minecraft:beach": "2025-07-04 04:08:04 +0000",
@@ -1933,6 +1934,7 @@
       "minecraft:lush_caves": "2025-07-05 01:21:44 +0000",
       "minecraft:frozen_ocean": "2025-07-08 03:44:41 +0000",
       "minecraft:ocean": "2025-07-05 01:30:11 +0000",
+      "minecraft:jungle": "2025-07-09 03:39:02 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-06 02:52:26 +0000",
       "minecraft:snowy_beach": "2025-07-08 03:43:48 +0000",
       "minecraft:flower_forest": "2025-07-05 04:45:39 +0000",
@@ -8627,9 +8629,57 @@
     },
     "done": true
   },
+  "minecolonies:military/root": {
+    "criteria": {
+      "guardtower": "2025-07-09 02:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_guard_tower": {
+    "criteria": {
+      "guard_tower": "2025-07-09 02:18:23 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/misc/blockhutstonemason": {
     "criteria": {
       "has_items": "2025-07-09 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutstonesmeltery": {
+    "criteria": {
+      "has_items": "2025-07-09 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutlibrary": {
+    "criteria": {
+      "has_items": "2025-07-09 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutuniversity": {
+    "criteria": {
+      "has_items": "2025-07-09 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2025-07-09 02:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-09 02:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-09 02:30:24 +0000"
     },
     "done": true
   },
@@ -8651,18 +8701,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
-    "criteria": {
-      "has_cut_sandstone": "2025-07-09 02:30:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sugar_cane": "2025-07-09 02:43:43 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/dye_blue_wool": {
     "criteria": {
       "has_needed_dye": "2025-07-09 02:31:40 +0000"
@@ -8675,39 +8713,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2025-07-09 02:37:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-07-09 02:31:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2025-07-09 02:37:15 +0000"
-    },
-    "done": true
-  },
   "domum_ornamentum:recipes/tools/blue_brick_extra": {
     "criteria": {
       "has_dye": "2025-07-09 02:31:40 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:military/root": {
-    "criteria": {
-      "guardtower": "2025-07-09 02:18:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2025-07-09 02:37:15 +0000"
     },
     "done": true
   },
@@ -8729,45 +8743,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2025-07-09 02:37:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-07-09 02:31:40 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:recipes/misc/blockhutstonesmeltery": {
-    "criteria": {
-      "has_items": "2025-07-09 02:18:54 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/build_guard_tower": {
-    "criteria": {
-      "guard_tower": "2025-07-09 02:18:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
-    "criteria": {
-      "has_cut_sandstone": "2025-07-09 02:30:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-09 02:37:15 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/colony_population_5": {
-    "criteria": {
-      "population_5": "2025-07-09 02:27:38 +0000"
     },
     "done": true
   },
@@ -8777,21 +8755,472 @@
     },
     "done": true
   },
-  "minecolonies:recipes/misc/blockhutlibrary": {
-    "criteria": {
-      "has_items": "2025-07-09 02:18:54 +0000"
-    },
-    "done": true
-  },
-  "minecolonies:recipes/misc/blockhutuniversity": {
-    "criteria": {
-      "has_items": "2025-07-09 02:18:54 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/dye_blue_picket_fence": {
     "criteria": {
       "has_dye": "2025-07-09 02:31:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-07-09 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-07-09 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-07-09 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-07-09 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-09 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-07-09 02:43:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-09 02:49:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_blinds": {
+    "criteria": {
+      "has_log": "2025-07-09 02:49:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-07-09 02:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-09 02:49:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-07-09 02:49:30 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/yellow_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/pink_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/roan_stone_bricks": {
+    "criteria": {
+      "has_item2_domum_ornamentum_roan_stone_bricks": "2025-07-09 02:50:43 +0000",
+      "has_item1_domum_ornamentum_roan_stone_bricks": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/light_gray_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/green_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/magenta_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/purple_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/cyan_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/black_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/white_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/light_blue_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/brown_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/gray_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/lime_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/red_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "domum_ornamentum:recipes/tools/orange_brick_extra": {
+    "criteria": {
+      "has_material": "2025-07-09 02:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2025-07-09 02:53:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2025-07-09 02:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2025-07-09 02:53:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-09 02:53:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2025-07-09 02:53:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-07-09 02:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-09 02:56:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_black_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-07-09 02:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-09 02:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2025-07-09 02:56:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_black_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-07-09 02:56:34 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/one_way_glass": {
+    "criteria": {
+      "has_wood": "2025-07-09 02:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2025-07-09 02:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-07-09 02:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-09 02:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-07-09 02:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-09 02:56:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-09 02:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-07-09 02:56:52 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2025-07-09 02:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-09 03:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-07-09 03:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-07-09 03:23:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 03:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-09 03:23:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_brown_picket_gate": {
+    "criteria": {
+      "has_dye": "2025-07-09 03:23:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/dye_brown_picket_fence": {
+    "criteria": {
+      "has_dye": "2025-07-09 03:23:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_brown_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-07-09 03:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-09 03:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2025-07-09 03:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-09 03:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-07-09 03:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-07-09 03:23:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-09 03:23:55 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/brown_sleeping_bag": {
+    "criteria": {
+      "has_brown_wool": "2025-07-09 03:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-07-09 03:23:55 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/food/eggdrop_soup": {
+    "criteria": {
+      "has_onion": "2025-07-09 03:33:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2025-07-09 03:37:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-07-09 03:37:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-07-09 03:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-09 03:43:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-09 03:44:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-09 03:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-07-09 03:48:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-07-09 03:49:42 +0000"
     },
     "done": true
   },

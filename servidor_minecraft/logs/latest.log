@@ -1,169 +1,169 @@
-[09Jul2025 00:48:13.908] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[09Jul2025 00:48:13.913] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[09Jul2025 00:48:22.351] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[09Jul2025 00:48:22.428] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serverZoombie/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[09Jul2025 00:48:22.708] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/serverZoombie/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[09Jul2025 00:48:22.891] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverZoombie/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
-[09Jul2025 00:48:22.892] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverZoombie/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[09Jul2025 00:48:22.893] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverZoombie/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[09Jul2025 00:48:22.894] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverZoombie/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
-[09Jul2025 00:48:23.883] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[09Jul2025 00:48:23.889] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
-[09Jul2025 00:48:26.824] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[09Jul2025 00:48:27.069] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[09Jul2025 00:48:27.405] [main/WARN] [mixin/]: Reference map 'colony_curios.refmap.json' for colony_curios.mixins.json could not be read. If this is a development environment you can ignore this message
-[09Jul2025 00:48:27.416] [main/WARN] [mixin/]: Reference map 'SDMEconomy-1.20.1-common-common-refmap.json' for sdmeconomy.mixins.json could not be read. If this is a development environment you can ignore this message
-[09Jul2025 00:48:27.860] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
-[09Jul2025 00:48:27.956] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[09Jul2025 00:48:27.974] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[09Jul2025 00:48:28.501] [main/WARN] [mixin/]: Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)
-[09Jul2025 00:48:28.503] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[09Jul2025 00:48:28.504] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[09Jul2025 00:48:28.514] [main/WARN] [mixin/]: Error loading class: com/hollingsworth/arsnouveau/common/items/SpellCrossbow (java.lang.ClassNotFoundException: com.hollingsworth.arsnouveau.common.items.SpellCrossbow)
-[09Jul2025 00:48:28.674] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
-[09Jul2025 00:48:28.674] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
-[09Jul2025 00:48:29.170] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/minecolonies/core/compatibility/jei/GenericRecipeCategory for invalid dist DEDICATED_SERVER
-[09Jul2025 00:48:29.171] [main/WARN] [mixin/]: Error loading class: com/minecolonies/core/compatibility/jei/GenericRecipeCategory (java.lang.RuntimeException: Attempted to load class com/minecolonies/core/compatibility/jei/GenericRecipeCategory for invalid dist DEDICATED_SERVER)
-[09Jul2025 00:48:29.171] [main/WARN] [mixin/]: @Mixin target com.minecolonies.core.compatibility.jei.GenericRecipeCategory was not found minecolonies_compatibility.mixin.common.json:minecolonies.GenericRecipeCategoryMixin
-[09Jul2025 00:48:29.183] [main/WARN] [mixin/]: Error loading class: com/legacy/blue_skies/blocks/natural/BrewberryBushBlock (java.lang.ClassNotFoundException: com.legacy.blue_skies.blocks.natural.BrewberryBushBlock)
-[09Jul2025 00:48:29.184] [main/WARN] [mixin/]: @Mixin target com.legacy.blue_skies.blocks.natural.BrewberryBushBlock was not found minecolonies_compatibility.mixin.common.json:blue_skies.BrewberryBushBlockAccessor
-[09Jul2025 00:48:29.186] [main/WARN] [mixin/]: Error loading class: com/lance5057/butchercraft/workstations/butcherblock/ButcherBlockBlockEntity (java.lang.ClassNotFoundException: com.lance5057.butchercraft.workstations.butcherblock.ButcherBlockBlockEntity)
-[09Jul2025 00:48:29.187] [main/WARN] [mixin/]: @Mixin target com.lance5057.butchercraft.workstations.butcherblock.ButcherBlockBlockEntity was not found minecolonies_compatibility.mixin.common.json:butchercraft.ButcherBlockBlockEntityAccessor
-[09Jul2025 00:48:29.189] [main/WARN] [mixin/]: Error loading class: com/lance5057/butchercraft/workstations/hook/MeatHookBlockEntity (java.lang.ClassNotFoundException: com.lance5057.butchercraft.workstations.hook.MeatHookBlockEntity)
-[09Jul2025 00:48:29.190] [main/WARN] [mixin/]: @Mixin target com.lance5057.butchercraft.workstations.hook.MeatHookBlockEntity was not found minecolonies_compatibility.mixin.common.json:butchercraft.MeatHookBlockEntityAccessor
-[09Jul2025 00:48:29.192] [main/WARN] [mixin/]: Error loading class: com/cobblemon/mod/common/block/BerryBlock (java.lang.ClassNotFoundException: com.cobblemon.mod.common.block.BerryBlock)
-[09Jul2025 00:48:29.192] [main/WARN] [mixin/]: @Mixin target com.cobblemon.mod.common.block.BerryBlock was not found minecolonies_compatibility.mixin.common.json:cobblemon.BerryBlockAccessor
-[09Jul2025 00:48:29.195] [main/WARN] [mixin/]: Error loading class: com/lothrazar/cyclic/block/apple/AppleCropBlock (java.lang.ClassNotFoundException: com.lothrazar.cyclic.block.apple.AppleCropBlock)
-[09Jul2025 00:48:29.196] [main/WARN] [mixin/]: @Mixin target com.lothrazar.cyclic.block.apple.AppleCropBlock was not found minecolonies_compatibility.mixin.common.json:cyclic.AppleCropBlockAccessor
-[09Jul2025 00:48:29.199] [main/WARN] [mixin/]: Error loading class: com/mrbysco/oreberriesreplanted/block/OreBerryBushBlock (java.lang.ClassNotFoundException: com.mrbysco.oreberriesreplanted.block.OreBerryBushBlock)
-[09Jul2025 00:48:29.201] [main/WARN] [mixin/]: @Mixin target com.mrbysco.oreberriesreplanted.block.OreBerryBushBlock was not found minecolonies_compatibility.mixin.common.json:oreberries.OreBerryBushBlockAccessor
-[09Jul2025 00:48:29.204] [main/WARN] [mixin/]: Error loading class: reliquary/items/HandgunItem (java.lang.ClassNotFoundException: reliquary.items.HandgunItem)
-[09Jul2025 00:48:29.206] [main/WARN] [mixin/]: @Mixin target reliquary.items.HandgunItem was not found minecolonies_compatibility.mixin.common.json:reliquary.HandgunItemAccessor
-[09Jul2025 00:48:29.209] [main/WARN] [mixin/]: Error loading class: reliquary/entities/shot/NeutralShotEntity (java.lang.ClassNotFoundException: reliquary.entities.shot.NeutralShotEntity)
-[09Jul2025 00:48:29.211] [main/WARN] [mixin/]: @Mixin target reliquary.entities.shot.NeutralShotEntity was not found minecolonies_compatibility.mixin.common.json:reliquary.NeutralShotEntityMixin
-[09Jul2025 00:48:29.214] [main/WARN] [mixin/]: Error loading class: com/lothrazar/storagenetwork/block/main/NetworkModule (java.lang.ClassNotFoundException: com.lothrazar.storagenetwork.block.main.NetworkModule)
-[09Jul2025 00:48:29.215] [main/WARN] [mixin/]: @Mixin target com.lothrazar.storagenetwork.block.main.NetworkModule was not found minecolonies_compatibility.mixin.common.json:storagenetwork.NetworkModuleAccessor
-[09Jul2025 00:48:29.217] [main/WARN] [mixin/]: Error loading class: com/lothrazar/storagenetwork/util/UtilConnections (java.lang.ClassNotFoundException: com.lothrazar.storagenetwork.util.UtilConnections)
-[09Jul2025 00:48:29.217] [main/WARN] [mixin/]: @Mixin target com.lothrazar.storagenetwork.util.UtilConnections was not found minecolonies_compatibility.mixin.common.json:storagenetwork.UtilConnectionsMixin
-[09Jul2025 00:48:29.227] [main/WARN] [mixin/]: Error loading class: cofh/lib/common/block/CropBlockCoFH (java.lang.ClassNotFoundException: cofh.lib.common.block.CropBlockCoFH)
-[09Jul2025 00:48:29.227] [main/WARN] [mixin/]: @Mixin target cofh.lib.common.block.CropBlockCoFH was not found minecolonies_compatibility.mixin.common.json:thermal.CropBlockCoFHAccessor
-[09Jul2025 00:48:29.495] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
-[09Jul2025 00:48:29.668] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
-[09Jul2025 00:48:29.950] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[09Jul2025 00:48:32.616] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
-[09Jul2025 00:48:34.058] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[09Jul2025 00:48:34.059] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[09Jul2025 00:48:34.171] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
-[09Jul2025 00:48:34.174] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
-[09Jul2025 00:48:36.812] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
-[09Jul2025 00:48:37.121] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
-[09Jul2025 00:48:37.121] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
-[09Jul2025 00:48:37.543] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[09Jul2025 03:04:36.330] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[09Jul2025 03:04:36.336] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[09Jul2025 03:04:37.994] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[09Jul2025 03:04:38.052] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/serverZoombie/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[09Jul2025 03:04:38.351] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/serverZoombie/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[09Jul2025 03:04:38.456] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverZoombie/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.0/fmlcore-1.20.1-47.4.0.jar is missing mods.toml file
+[09Jul2025 03:04:38.458] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverZoombie/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.0/javafmllanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[09Jul2025 03:04:38.459] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverZoombie/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.0/lowcodelanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[09Jul2025 03:04:38.460] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/serverZoombie/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.0/mclanguage-1.20.1-47.4.0.jar is missing mods.toml file
+[09Jul2025 03:04:38.997] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[09Jul2025 03:04:38.999] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
+[09Jul2025 03:04:42.258] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[09Jul2025 03:04:42.420] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[09Jul2025 03:04:42.631] [main/WARN] [mixin/]: Reference map 'colony_curios.refmap.json' for colony_curios.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Jul2025 03:04:42.645] [main/WARN] [mixin/]: Reference map 'SDMEconomy-1.20.1-common-common-refmap.json' for sdmeconomy.mixins.json could not be read. If this is a development environment you can ignore this message
+[09Jul2025 03:04:43.098] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[09Jul2025 03:04:43.154] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09Jul2025 03:04:43.177] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09Jul2025 03:04:43.806] [main/WARN] [mixin/]: Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)
+[09Jul2025 03:04:43.808] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09Jul2025 03:04:43.810] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09Jul2025 03:04:43.821] [main/WARN] [mixin/]: Error loading class: com/hollingsworth/arsnouveau/common/items/SpellCrossbow (java.lang.ClassNotFoundException: com.hollingsworth.arsnouveau.common.items.SpellCrossbow)
+[09Jul2025 03:04:43.952] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[09Jul2025 03:04:43.953] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[09Jul2025 03:04:44.562] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/minecolonies/core/compatibility/jei/GenericRecipeCategory for invalid dist DEDICATED_SERVER
+[09Jul2025 03:04:44.564] [main/WARN] [mixin/]: Error loading class: com/minecolonies/core/compatibility/jei/GenericRecipeCategory (java.lang.RuntimeException: Attempted to load class com/minecolonies/core/compatibility/jei/GenericRecipeCategory for invalid dist DEDICATED_SERVER)
+[09Jul2025 03:04:44.564] [main/WARN] [mixin/]: @Mixin target com.minecolonies.core.compatibility.jei.GenericRecipeCategory was not found minecolonies_compatibility.mixin.common.json:minecolonies.GenericRecipeCategoryMixin
+[09Jul2025 03:04:44.574] [main/WARN] [mixin/]: Error loading class: com/legacy/blue_skies/blocks/natural/BrewberryBushBlock (java.lang.ClassNotFoundException: com.legacy.blue_skies.blocks.natural.BrewberryBushBlock)
+[09Jul2025 03:04:44.574] [main/WARN] [mixin/]: @Mixin target com.legacy.blue_skies.blocks.natural.BrewberryBushBlock was not found minecolonies_compatibility.mixin.common.json:blue_skies.BrewberryBushBlockAccessor
+[09Jul2025 03:04:44.577] [main/WARN] [mixin/]: Error loading class: com/lance5057/butchercraft/workstations/butcherblock/ButcherBlockBlockEntity (java.lang.ClassNotFoundException: com.lance5057.butchercraft.workstations.butcherblock.ButcherBlockBlockEntity)
+[09Jul2025 03:04:44.577] [main/WARN] [mixin/]: @Mixin target com.lance5057.butchercraft.workstations.butcherblock.ButcherBlockBlockEntity was not found minecolonies_compatibility.mixin.common.json:butchercraft.ButcherBlockBlockEntityAccessor
+[09Jul2025 03:04:44.581] [main/WARN] [mixin/]: Error loading class: com/lance5057/butchercraft/workstations/hook/MeatHookBlockEntity (java.lang.ClassNotFoundException: com.lance5057.butchercraft.workstations.hook.MeatHookBlockEntity)
+[09Jul2025 03:04:44.581] [main/WARN] [mixin/]: @Mixin target com.lance5057.butchercraft.workstations.hook.MeatHookBlockEntity was not found minecolonies_compatibility.mixin.common.json:butchercraft.MeatHookBlockEntityAccessor
+[09Jul2025 03:04:44.584] [main/WARN] [mixin/]: Error loading class: com/cobblemon/mod/common/block/BerryBlock (java.lang.ClassNotFoundException: com.cobblemon.mod.common.block.BerryBlock)
+[09Jul2025 03:04:44.584] [main/WARN] [mixin/]: @Mixin target com.cobblemon.mod.common.block.BerryBlock was not found minecolonies_compatibility.mixin.common.json:cobblemon.BerryBlockAccessor
+[09Jul2025 03:04:44.586] [main/WARN] [mixin/]: Error loading class: com/lothrazar/cyclic/block/apple/AppleCropBlock (java.lang.ClassNotFoundException: com.lothrazar.cyclic.block.apple.AppleCropBlock)
+[09Jul2025 03:04:44.587] [main/WARN] [mixin/]: @Mixin target com.lothrazar.cyclic.block.apple.AppleCropBlock was not found minecolonies_compatibility.mixin.common.json:cyclic.AppleCropBlockAccessor
+[09Jul2025 03:04:44.589] [main/WARN] [mixin/]: Error loading class: com/mrbysco/oreberriesreplanted/block/OreBerryBushBlock (java.lang.ClassNotFoundException: com.mrbysco.oreberriesreplanted.block.OreBerryBushBlock)
+[09Jul2025 03:04:44.589] [main/WARN] [mixin/]: @Mixin target com.mrbysco.oreberriesreplanted.block.OreBerryBushBlock was not found minecolonies_compatibility.mixin.common.json:oreberries.OreBerryBushBlockAccessor
+[09Jul2025 03:04:44.592] [main/WARN] [mixin/]: Error loading class: reliquary/items/HandgunItem (java.lang.ClassNotFoundException: reliquary.items.HandgunItem)
+[09Jul2025 03:04:44.592] [main/WARN] [mixin/]: @Mixin target reliquary.items.HandgunItem was not found minecolonies_compatibility.mixin.common.json:reliquary.HandgunItemAccessor
+[09Jul2025 03:04:44.594] [main/WARN] [mixin/]: Error loading class: reliquary/entities/shot/NeutralShotEntity (java.lang.ClassNotFoundException: reliquary.entities.shot.NeutralShotEntity)
+[09Jul2025 03:04:44.594] [main/WARN] [mixin/]: @Mixin target reliquary.entities.shot.NeutralShotEntity was not found minecolonies_compatibility.mixin.common.json:reliquary.NeutralShotEntityMixin
+[09Jul2025 03:04:44.596] [main/WARN] [mixin/]: Error loading class: com/lothrazar/storagenetwork/block/main/NetworkModule (java.lang.ClassNotFoundException: com.lothrazar.storagenetwork.block.main.NetworkModule)
+[09Jul2025 03:04:44.597] [main/WARN] [mixin/]: @Mixin target com.lothrazar.storagenetwork.block.main.NetworkModule was not found minecolonies_compatibility.mixin.common.json:storagenetwork.NetworkModuleAccessor
+[09Jul2025 03:04:44.599] [main/WARN] [mixin/]: Error loading class: com/lothrazar/storagenetwork/util/UtilConnections (java.lang.ClassNotFoundException: com.lothrazar.storagenetwork.util.UtilConnections)
+[09Jul2025 03:04:44.599] [main/WARN] [mixin/]: @Mixin target com.lothrazar.storagenetwork.util.UtilConnections was not found minecolonies_compatibility.mixin.common.json:storagenetwork.UtilConnectionsMixin
+[09Jul2025 03:04:44.602] [main/WARN] [mixin/]: Error loading class: cofh/lib/common/block/CropBlockCoFH (java.lang.ClassNotFoundException: cofh.lib.common.block.CropBlockCoFH)
+[09Jul2025 03:04:44.602] [main/WARN] [mixin/]: @Mixin target cofh.lib.common.block.CropBlockCoFH was not found minecolonies_compatibility.mixin.common.json:thermal.CropBlockCoFHAccessor
+[09Jul2025 03:04:44.800] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
+[09Jul2025 03:04:44.971] [main/WARN] [mixin/]: Error loading class: com/teammetallurgy/aquaculture/entity/AquaFishingBobberEntity (java.lang.ClassNotFoundException: com.teammetallurgy.aquaculture.entity.AquaFishingBobberEntity)
+[09Jul2025 03:04:45.166] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[09Jul2025 03:04:47.248] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
+[09Jul2025 03:04:48.742] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09Jul2025 03:04:48.743] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[09Jul2025 03:04:48.859] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[09Jul2025 03:04:48.862] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[09Jul2025 03:04:51.062] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
+[09Jul2025 03:04:51.462] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[09Jul2025 03:04:51.462] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[09Jul2025 03:04:51.811] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[09Jul2025 00:48:39.037] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[09Jul2025 00:48:39.045] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[09Jul2025 00:48:39.050] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[09Jul2025 00:48:39.054] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[09Jul2025 00:48:39.059] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[09Jul2025 00:48:39.060] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[09Jul2025 00:48:39.062] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[09Jul2025 00:48:39.064] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[09Jul2025 00:48:39.483] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[09Jul2025 00:48:39.483] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[09Jul2025 00:48:39.483] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[09Jul2025 00:48:39.483] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[09Jul2025 00:48:39.484] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[09Jul2025 00:48:39.484] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[09Jul2025 00:48:39.484] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
-[09Jul2025 00:48:39.767] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/serverZoombie/servidor_minecraft/config/warntaxmod/minecolonytax.toml is not correct. Correcting
-[09Jul2025 00:48:39.770] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key War Settings.RaidTaxPercentages was corrected from [0.1, 0.25, 0.5, 0.7] to its default, [0.1, 0.25, 0.5, 0.7]. 
-[09Jul2025 00:48:39.900] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
-[09Jul2025 00:48:39.900] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
-[09Jul2025 00:48:40.293] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[09Jul2025 00:48:40.298] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[09Jul2025 00:48:40.495] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[09Jul2025 00:48:40.499] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[09Jul2025 00:48:40.937] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Warped Netherlands
-[09Jul2025 00:48:40.948] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Stalactite Caves
-[09Jul2025 00:48:40.952] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Space Wars
-[09Jul2025 00:48:40.957] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Shire
-[09Jul2025 00:48:40.960] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Desert Oasis
-[09Jul2025 00:48:40.961] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Pagoda
-[09Jul2025 00:48:40.962] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Minecolonies Original
-[09Jul2025 00:48:40.962] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Nordic Spruce
-[09Jul2025 00:48:40.963] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Spruce
-[09Jul2025 00:48:40.963] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Oak
-[09Jul2025 00:48:40.964] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Dark Oak
-[09Jul2025 00:48:40.965] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Birch
-[09Jul2025 00:48:40.967] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Lost Mesa City
-[09Jul2025 00:48:40.968] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Jungle Treehouse
-[09Jul2025 00:48:40.969] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Incan
-[09Jul2025 00:48:40.969] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Fortress
-[09Jul2025 00:48:40.972] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Dark Oak Treehouse
-[09Jul2025 00:48:40.972] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Colonial
-[09Jul2025 00:48:40.972] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Cavern
-[09Jul2025 00:48:40.978] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Caledonia
-[09Jul2025 00:48:40.979] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Birch
-[09Jul2025 00:48:40.979] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Ancient Athens
-[09Jul2025 00:48:40.979] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Savanna
-[09Jul2025 00:48:40.980] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
-[09Jul2025 00:48:40.980] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
-[09Jul2025 00:48:40.983] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
-[09Jul2025 00:48:41.591] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
-[09Jul2025 00:48:41.618] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmeconomy:send_create_currency
-[09Jul2025 00:48:41.619] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmeconomy:send_delete_currency
-[09Jul2025 00:48:41.639] [modloading-worker-0/INFO] [net.sixik.sdm_core.SDMCore/]: Environment is not development!
-[09Jul2025 00:48:41.656] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
-[09Jul2025 00:48:41.663] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
-[09Jul2025 00:48:41.665] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
-[09Jul2025 00:48:41.669] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
-[09Jul2025 00:48:41.673] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
-[09Jul2025 00:48:41.886] [modloading-worker-0/WARN] [minecolonies/]: |======================================================================================================================================|
-[09Jul2025 00:48:41.887] [modloading-worker-0/WARN] [minecolonies/]: |                                                                                                                                      |
-[09Jul2025 00:48:41.887] [modloading-worker-0/WARN] [minecolonies/]: | Minecolonies has detected an addon mod that alters Minecolonies core code recklessly: 'Tweaks/Compatibility addon for Minecolonies'. |
-[09Jul2025 00:48:41.887] [modloading-worker-0/WARN] [minecolonies/]: |          Please report any bugs or issues you find directly to the authors of this addon, as the Official Minecolonies Team          |
-[09Jul2025 00:48:41.890] [modloading-worker-0/WARN] [minecolonies/]: |               will not be able to provide you any support with potential issues that will arise when using this addon.               |
-[09Jul2025 00:48:41.890] [modloading-worker-0/WARN] [minecolonies/]: |                                                                                                                                      |
-[09Jul2025 00:48:41.890] [modloading-worker-0/WARN] [minecolonies/]: |======================================================================================================================================|
-[09Jul2025 00:48:41.971] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[09Jul2025 00:48:42.016] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered seller type [money_seller]
-[09Jul2025 00:48:42.021] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered seller type [item_seller]
-[09Jul2025 00:48:42.036] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered entry type [shopItemEntryType]
-[09Jul2025 00:48:42.043] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered entry type [itemTag]
-[09Jul2025 00:48:42.048] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered entry type [advancementType]
-[09Jul2025 00:48:42.052] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered entry type [commandType]
-[09Jul2025 00:48:42.053] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered entry type [xpType]
-[09Jul2025 00:48:42.057] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered entry type [xpLevelType]
-[09Jul2025 00:48:42.061] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered entry type [stageType]
-[09Jul2025 00:48:42.067] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered condition [stageCondition]
-[09Jul2025 00:48:42.068] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:change_edit_mode
-[09Jul2025 00:48:42.069] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_change_money
-[09Jul2025 00:48:42.073] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_add_entry_c2s
-[09Jul2025 00:48:42.075] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_remove_entry_c2s
-[09Jul2025 00:48:42.076] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_change_entry_c2s
-[09Jul2025 00:48:42.081] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_add_tab_c2s
-[09Jul2025 00:48:42.082] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_remove_tab_c2s
-[09Jul2025 00:48:42.085] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_change_tab_c2s
-[09Jul2025 00:48:42.087] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_move_entry_c2s
-[09Jul2025 00:48:42.090] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_move_tab_c2s
-[09Jul2025 00:48:42.092] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_buy_entry_cs2
-[09Jul2025 00:48:42.100] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_change_params_c2s
-[09Jul2025 00:48:42.101] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:ask_to_server
-[09Jul2025 00:48:42.109] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered ASK request [sync_shop]
-[09Jul2025 00:48:42.113] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered ASK request [sync_shop_and_open]
-[09Jul2025 00:48:42.114] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered ASK request [get_shop_and_open]
-[09Jul2025 00:48:47.683] [main/INFO] [steve_gall.minecolonies_tweaks.core.common.MineColoniesTweaks/]: CustomToolTypeData Added: minecolonies_tweaks:crossbow
-[09Jul2025 00:48:47.683] [main/INFO] [steve_gall.minecolonies_tweaks.core.common.MineColoniesTweaks/]: CustomToolTypeData Added: minecolonies_tweaks:gun
-[09Jul2025 00:48:47.683] [main/INFO] [steve_gall.minecolonies_tweaks.core.common.MineColoniesTweaks/]: CustomToolTypeData Added: minecolonies_tweaks:knife
-[09Jul2025 00:48:47.683] [main/INFO] [steve_gall.minecolonies_tweaks.core.common.MineColoniesTweaks/]: CustomToolTypeData Added: minecolonies_tweaks:ranger_weapon
-[09Jul2025 00:48:47.683] [main/INFO] [steve_gall.minecolonies_tweaks.core.common.MineColoniesTweaks/]: CustomToolTypeData Added: minecolonies_tweaks:knight_weapon
-[09Jul2025 00:48:47.683] [main/INFO] [steve_gall.minecolonies_tweaks.core.common.MineColoniesTweaks/]: CustomToolTypeData Added: minecolonies_tweaks:butcher_tool
-[09Jul2025 00:48:48.114] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[09Jul2025 00:48:48.549] [modloading-worker-0/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Initializing War N Taxes Mod
-[09Jul2025 00:48:48.575] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[09Jul2025 00:48:48.793] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
-[09Jul2025 00:48:48.797] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
-[09Jul2025 00:48:48.829] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[09Jul2025 03:04:53.052] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[09Jul2025 03:04:53.152] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[09Jul2025 03:04:53.167] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[09Jul2025 03:04:53.173] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[09Jul2025 03:04:53.183] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[09Jul2025 03:04:53.188] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[09Jul2025 03:04:53.189] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[09Jul2025 03:04:53.190] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[09Jul2025 03:04:53.406] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[09Jul2025 03:04:53.407] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[09Jul2025 03:04:53.408] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[09Jul2025 03:04:53.411] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[09Jul2025 03:04:53.411] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[09Jul2025 03:04:53.411] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[09Jul2025 03:04:53.411] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[09Jul2025 03:04:53.682] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/serverZoombie/servidor_minecraft/config/warntaxmod/minecolonytax.toml is not correct. Correcting
+[09Jul2025 03:04:53.683] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key War Settings.RaidTaxPercentages was corrected from [0.1, 0.25, 0.5, 0.7] to its default, [0.1, 0.25, 0.5, 0.7]. 
+[09Jul2025 03:04:53.690] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.0, for MC 1.20.1 with MCP 20230612.114412
+[09Jul2025 03:04:53.695] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.0 Initialized
+[09Jul2025 03:04:54.076] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[09Jul2025 03:04:54.081] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[09Jul2025 03:04:54.178] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[09Jul2025 03:04:54.178] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[09Jul2025 03:04:54.624] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Warped Netherlands
+[09Jul2025 03:04:54.630] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Stalactite Caves
+[09Jul2025 03:04:54.633] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Space Wars
+[09Jul2025 03:04:54.641] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Shire
+[09Jul2025 03:04:54.641] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Desert Oasis
+[09Jul2025 03:04:54.642] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Pagoda
+[09Jul2025 03:04:54.642] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Minecolonies Original
+[09Jul2025 03:04:54.642] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Nordic Spruce
+[09Jul2025 03:04:54.642] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Spruce
+[09Jul2025 03:04:54.642] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Oak
+[09Jul2025 03:04:54.643] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Dark Oak
+[09Jul2025 03:04:54.643] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Medieval Birch
+[09Jul2025 03:04:54.650] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Lost Mesa City
+[09Jul2025 03:04:54.651] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Jungle Treehouse
+[09Jul2025 03:04:54.651] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Incan
+[09Jul2025 03:04:54.651] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Fortress
+[09Jul2025 03:04:54.654] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Dark Oak Treehouse
+[09Jul2025 03:04:54.655] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Colonial
+[09Jul2025 03:04:54.655] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Cavern
+[09Jul2025 03:04:54.656] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Caledonia
+[09Jul2025 03:04:54.657] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Birch
+[09Jul2025 03:04:54.659] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Ancient Athens
+[09Jul2025 03:04:54.659] [Structurize IO Worker #0/INFO] [structurize/]: Registered structure pack: Urban Savanna
+[09Jul2025 03:04:54.660] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading packs from main folder path: .
+[09Jul2025 03:04:54.661] [Structurize IO Worker #0/WARN] [structurize/]: Failed loading client packs from main folder path: .
+[09Jul2025 03:04:54.663] [Structurize IO Worker #0/WARN] [structurize/]: Finished discovering Server Structure packs
+[09Jul2025 03:04:55.218] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftblibrary:edit_nbt_response
+[09Jul2025 03:04:55.237] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmeconomy:send_create_currency
+[09Jul2025 03:04:55.238] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmeconomy:send_delete_currency
+[09Jul2025 03:04:55.261] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:open_gui
+[09Jul2025 03:04:55.265] [modloading-worker-0/INFO] [net.sixik.sdm_core.SDMCore/]: Environment is not development!
+[09Jul2025 03:04:55.266] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:update_settings
+[09Jul2025 03:04:55.273] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:send_message
+[09Jul2025 03:04:55.275] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:create_party
+[09Jul2025 03:04:55.280] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id ftbteams:player_gui_operation
+[09Jul2025 03:04:55.404] [modloading-worker-0/WARN] [minecolonies/]: |======================================================================================================================================|
+[09Jul2025 03:04:55.404] [modloading-worker-0/WARN] [minecolonies/]: |                                                                                                                                      |
+[09Jul2025 03:04:55.404] [modloading-worker-0/WARN] [minecolonies/]: | Minecolonies has detected an addon mod that alters Minecolonies core code recklessly: 'Tweaks/Compatibility addon for Minecolonies'. |
+[09Jul2025 03:04:55.404] [modloading-worker-0/WARN] [minecolonies/]: |          Please report any bugs or issues you find directly to the authors of this addon, as the Official Minecolonies Team          |
+[09Jul2025 03:04:55.405] [modloading-worker-0/WARN] [minecolonies/]: |               will not be able to provide you any support with potential issues that will arise when using this addon.               |
+[09Jul2025 03:04:55.405] [modloading-worker-0/WARN] [minecolonies/]: |                                                                                                                                      |
+[09Jul2025 03:04:55.405] [modloading-worker-0/WARN] [minecolonies/]: |======================================================================================================================================|
+[09Jul2025 03:04:55.522] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[09Jul2025 03:04:55.541] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered seller type [money_seller]
+[09Jul2025 03:04:55.543] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered seller type [item_seller]
+[09Jul2025 03:04:55.559] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered entry type [shopItemEntryType]
+[09Jul2025 03:04:55.562] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered entry type [itemTag]
+[09Jul2025 03:04:55.568] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered entry type [advancementType]
+[09Jul2025 03:04:55.573] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered entry type [commandType]
+[09Jul2025 03:04:55.577] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered entry type [xpType]
+[09Jul2025 03:04:55.578] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered entry type [xpLevelType]
+[09Jul2025 03:04:55.579] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered entry type [stageType]
+[09Jul2025 03:04:55.587] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered condition [stageCondition]
+[09Jul2025 03:04:55.588] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:change_edit_mode
+[09Jul2025 03:04:55.592] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_change_money
+[09Jul2025 03:04:55.597] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_add_entry_c2s
+[09Jul2025 03:04:55.598] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_remove_entry_c2s
+[09Jul2025 03:04:55.603] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_change_entry_c2s
+[09Jul2025 03:04:55.612] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_add_tab_c2s
+[09Jul2025 03:04:55.614] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_remove_tab_c2s
+[09Jul2025 03:04:55.626] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_change_tab_c2s
+[09Jul2025 03:04:55.627] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_move_entry_c2s
+[09Jul2025 03:04:55.629] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_move_tab_c2s
+[09Jul2025 03:04:55.640] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_buy_entry_cs2
+[09Jul2025 03:04:55.641] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:shop_change_params_c2s
+[09Jul2025 03:04:55.645] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id sdmshop:ask_to_server
+[09Jul2025 03:04:55.647] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered ASK request [sync_shop]
+[09Jul2025 03:04:55.655] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered ASK request [sync_shop_and_open]
+[09Jul2025 03:04:55.657] [modloading-worker-0/INFO] [net.sixik.sdmshop.SDMShop/]: Registered ASK request [get_shop_and_open]
+[09Jul2025 03:05:00.127] [main/INFO] [steve_gall.minecolonies_tweaks.core.common.MineColoniesTweaks/]: CustomToolTypeData Added: minecolonies_tweaks:crossbow
+[09Jul2025 03:05:00.128] [main/INFO] [steve_gall.minecolonies_tweaks.core.common.MineColoniesTweaks/]: CustomToolTypeData Added: minecolonies_tweaks:gun
+[09Jul2025 03:05:00.128] [main/INFO] [steve_gall.minecolonies_tweaks.core.common.MineColoniesTweaks/]: CustomToolTypeData Added: minecolonies_tweaks:knife
+[09Jul2025 03:05:00.128] [main/INFO] [steve_gall.minecolonies_tweaks.core.common.MineColoniesTweaks/]: CustomToolTypeData Added: minecolonies_tweaks:ranger_weapon
+[09Jul2025 03:05:00.128] [main/INFO] [steve_gall.minecolonies_tweaks.core.common.MineColoniesTweaks/]: CustomToolTypeData Added: minecolonies_tweaks:knight_weapon
+[09Jul2025 03:05:00.128] [main/INFO] [steve_gall.minecolonies_tweaks.core.common.MineColoniesTweaks/]: CustomToolTypeData Added: minecolonies_tweaks:butcher_tool
+[09Jul2025 03:05:00.352] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[09Jul2025 03:05:00.671] [modloading-worker-0/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Initializing War N Taxes Mod
+[09Jul2025 03:05:00.704] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[09Jul2025 03:05:00.883] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/c6416779da663f62836ae72f0509aa3e
+[09Jul2025 03:05:00.885] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id skin_changer:mbechannel/8489ea5ae87e3a6199b65ea21ca8f8c8
+[09Jul2025 03:05:00.924] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -178,57 +178,57 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[09Jul2025 00:48:48.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[09Jul2025 00:48:48.887] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: OUTDATED Current: 2.3.0 Target: 2.4.0
-[09Jul2025 00:48:48.891] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
-[09Jul2025 00:48:48.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
-[09Jul2025 00:48:48.911] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[09Jul2025 00:48:49.049] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[09Jul2025 00:48:49.049] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[09Jul2025 00:48:49.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
-[09Jul2025 00:48:49.102] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
-[09Jul2025 00:48:49.270] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[09Jul2025 00:48:49.270] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[09Jul2025 00:48:49.270] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[09Jul2025 00:48:49.271] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[09Jul2025 00:48:49.271] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[09Jul2025 00:48:49.271] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[09Jul2025 00:48:49.271] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[09Jul2025 00:48:49.271] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[09Jul2025 00:48:49.283] [main/INFO] [journeymap/]: Initializing Packet Registries
-[09Jul2025 00:48:49.336] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
-[09Jul2025 00:48:49.336] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
-[09Jul2025 00:48:49.337] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
-[09Jul2025 00:48:49.337] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
-[09Jul2025 00:48:49.484] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
-[09Jul2025 00:48:49.484] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[09Jul2025 00:48:49.497] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[09Jul2025 00:48:49.497] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[09Jul2025 00:48:49.634] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
-[09Jul2025 00:48:49.699] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.spawn.compat.SpawnerHwylaPlugin
-[09Jul2025 00:48:49.710] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.ench.compat.EnchHwylaPlugin
-[09Jul2025 00:48:49.711] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.adventure.compat.AdventureHwylaPlugin
-[09Jul2025 00:48:49.713] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[09Jul2025 00:48:49.727] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[09Jul2025 00:48:49.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
-[09Jul2025 00:48:49.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[09Jul2025 00:48:49.737] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[09Jul2025 00:48:49.739] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
-[09Jul2025 00:48:49.740] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[09Jul2025 00:48:49.742] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[09Jul2025 00:48:49.748] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
-[09Jul2025 00:48:49.748] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
-[09Jul2025 00:48:49.850] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
-[09Jul2025 00:48:49.850] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
-[09Jul2025 00:48:49.866] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
-[09Jul2025 00:48:49.867] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
-[09Jul2025 00:48:50.385] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.33 Target: null
-[09Jul2025 00:48:50.386] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
-[09Jul2025 00:48:50.490] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.24 Target: 1.20.1-1.0.32
-[09Jul2025 00:48:50.491] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[09Jul2025 00:48:50.621] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[09Jul2025 00:48:50.621] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
-[09Jul2025 00:48:50.645] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[09Jul2025 03:05:00.928] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[09Jul2025 03:05:00.996] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: OUTDATED Current: 2.3.0 Target: 2.4.0
+[09Jul2025 03:05:00.997] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/paintings.json
+[09Jul2025 03:05:01.008] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwpaintings] Found status: UP_TO_DATE Current: 1.0.5 Target: null
+[09Jul2025 03:05:01.008] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[09Jul2025 03:05:01.121] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[09Jul2025 03:05:01.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[09Jul2025 03:05:01.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 9.1.39 Target: null
+[09Jul2025 03:05:01.162] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[09Jul2025 03:05:01.261] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[09Jul2025 03:05:01.262] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[09Jul2025 03:05:01.262] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[09Jul2025 03:05:01.262] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[09Jul2025 03:05:01.262] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[09Jul2025 03:05:01.262] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[09Jul2025 03:05:01.262] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[09Jul2025 03:05:01.262] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[09Jul2025 03:05:01.271] [main/INFO] [journeymap/]: Initializing Packet Registries
+[09Jul2025 03:05:01.325] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[09Jul2025 03:05:01.326] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[09Jul2025 03:05:01.326] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[09Jul2025 03:05:01.326] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[09Jul2025 03:05:01.579] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[09Jul2025 03:05:01.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[09Jul2025 03:05:01.584] [modloading-worker-0/WARN] [minecolonies/]: Register mappings
+[09Jul2025 03:05:01.594] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[09Jul2025 03:05:01.595] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[09Jul2025 03:05:01.631] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.spawn.compat.SpawnerHwylaPlugin
+[09Jul2025 03:05:01.646] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.ench.compat.EnchHwylaPlugin
+[09Jul2025 03:05:01.648] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.adventure.compat.AdventureHwylaPlugin
+[09Jul2025 03:05:01.649] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[09Jul2025 03:05:01.671] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[09Jul2025 03:05:01.677] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[09Jul2025 03:05:01.678] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[09Jul2025 03:05:01.679] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[09Jul2025 03:05:01.681] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[09Jul2025 03:05:01.719] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.4.0 Target: null
+[09Jul2025 03:05:01.720] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[09Jul2025 03:05:01.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwbridges] Found status: UP_TO_DATE Current: 3.1.0 Target: null
+[09Jul2025 03:05:01.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[09Jul2025 03:05:01.834] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[09Jul2025 03:05:01.834] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/fences.json
+[09Jul2025 03:05:01.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfences] Found status: UP_TO_DATE Current: 1.2.0 Target: null
+[09Jul2025 03:05:01.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://update.maxhenkel.de/forge/easy_villagers
+[09Jul2025 03:05:02.438] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: AHEAD Current: 1.20.1-1.1.33 Target: null
+[09Jul2025 03:05:02.439] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://update.maxhenkel.de/forge/gravestone
+[09Jul2025 03:05:02.538] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.20.1-1.0.24 Target: 1.20.1-1.0.32
+[09Jul2025 03:05:02.538] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[09Jul2025 03:05:02.635] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[09Jul2025 03:05:02.636] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cfm] Starting version check at https://mrcrayfish.com/modupdatejson?id=cfm
+[09Jul2025 03:05:02.664] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -243,47 +243,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[09Jul2025 00:48:50.646] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Enchantments/update.json
-[09Jul2025 00:48:50.662] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Found status: UP_TO_DATE Current: 1.10.8 Target: null
-[09Jul2025 00:48:50.662] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
-[09Jul2025 00:48:50.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
-[09Jul2025 00:48:50.676] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
-[09Jul2025 00:48:50.691] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[09Jul2025 00:48:53.133] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[09Jul2025 00:48:55.637] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverZoombie/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23249!/assets/.mcassetsroot' uses unexpected schema
-[09Jul2025 00:48:55.638] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverZoombie/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23249!/data/.mcassetsroot' uses unexpected schema
-[09Jul2025 00:49:05.179] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/server/commands/EnchantCommand
-[09Jul2025 00:49:05.402] [main/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: MineColonyTax: /wnt commands registered.
-[09Jul2025 00:49:05.402] [main/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded Arena Positions
-[09Jul2025 00:49:05.519] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[09Jul2025 00:49:05.895] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:summer_crops as it is missing following references: miners_delight:cave_carrot (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	vegetablesdelight:cucumber_plant (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	pineapple_delight:pineapple_crop (from sereneseasonsdelight-1.0.2-1.20.1.jar)
-[09Jul2025 00:49:05.900] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:autumn_crops as it is missing following references: miners_delight:cave_carrot (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	vegetablesdelight:cucumber_plant (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	berries_and_cherries:blueberry_bush_bottom (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	berries_and_cherries:black_grape_tree_bottom (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	berries_and_cherries:green_grape_tree_bottom (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	berries_and_cherries:raspberrybush (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	berries_and_cherries:strawberrybush (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	pineapple_delight:pineapple_crop (from sereneseasonsdelight-1.0.2-1.20.1.jar)
-[09Jul2025 00:49:05.903] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:winter_crops as it is missing following references: berries_and_cherries:blueberry_bush_bottom (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	berries_and_cherries:black_grape_tree_bottom (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	berries_and_cherries:green_grape_tree_bottom (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	berries_and_cherries:raspberrybush (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	berries_and_cherries:strawberrybush (from sereneseasonsdelight-1.0.2-1.20.1.jar)
-[09Jul2025 00:49:05.905] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:spring_crops as it is missing following references: miners_delight:cave_carrot (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	pineapple_delight:pineapple_crop (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
-	vegetablesdelight:cucumber_plant (from sereneseasonsdelight-1.0.2-1.20.1.jar)
-[09Jul2025 00:49:05.909] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:spring_crops as it is missing following references: miners_delight:cave_carrot (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+[09Jul2025 03:05:02.665] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Enchantments/update.json
+[09Jul2025 03:05:02.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszsenchantments] Found status: UP_TO_DATE Current: 1.10.8 Target: null
+[09Jul2025 03:05:02.675] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Starting version check at https://raw.githubusercontent.com/Majrusz/MinecraftCommon/main/Library/update.json
+[09Jul2025 03:05:02.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [majruszlibrary] Found status: AHEAD Current: 7.0.8 Target: null
+[09Jul2025 03:05:02.683] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/lights.json
+[09Jul2025 03:05:02.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwlights] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[09Jul2025 03:05:05.463] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[09Jul2025 03:05:07.930] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverZoombie/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23249!/assets/.mcassetsroot' uses unexpected schema
+[09Jul2025 03:05:07.930] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/serverZoombie/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23249!/data/.mcassetsroot' uses unexpected schema
+[09Jul2025 03:05:15.296] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/server/commands/EnchantCommand
+[09Jul2025 03:05:15.515] [main/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: MineColonyTax: /wnt commands registered.
+[09Jul2025 03:05:15.515] [main/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded Arena Positions
+[09Jul2025 03:05:15.622] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[09Jul2025 03:05:15.824] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:spring_crops as it is missing following references: miners_delight:cave_carrot (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	pineapple_delight:pineapple (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	vegetablesdelight:cucumber_plant (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	vegetablesdelight:cucumber_seeds (from sereneseasonsdelight-1.0.2-1.20.1.jar)
-[09Jul2025 00:49:05.915] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:summer_crops as it is missing following references: miners_delight:cave_carrot (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+[09Jul2025 03:05:15.828] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:summer_crops as it is missing following references: miners_delight:cave_carrot (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	vegetablesdelight:cucumber_plant (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	vegetablesdelight:cucumber_seeds (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	pineapple_delight:pineapple (from sereneseasonsdelight-1.0.2-1.20.1.jar)
-[09Jul2025 00:49:05.917] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:autumn_crops as it is missing following references: miners_delight:cave_carrot (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+[09Jul2025 03:05:15.829] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:autumn_crops as it is missing following references: miners_delight:cave_carrot (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	vegetablesdelight:cucumber_plant (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	vegetablesdelight:cucumber_seeds (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	berries_and_cherries:black_grapes (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
@@ -292,12 +273,31 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	berries_and_cherries:raspberry (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	berries_and_cherries:strawberrybush (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	pineapple_delight:pineapple (from sereneseasonsdelight-1.0.2-1.20.1.jar)
-[09Jul2025 00:49:05.919] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:winter_crops as it is missing following references: berries_and_cherries:black_grapes (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+[09Jul2025 03:05:15.831] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:winter_crops as it is missing following references: berries_and_cherries:black_grapes (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	berries_and_cherries:blueberry (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	berries_and_cherries:green_grapes (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	berries_and_cherries:raspberry (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
 	berries_and_cherries:strawberrybush (from sereneseasonsdelight-1.0.2-1.20.1.jar)
-[09Jul2025 00:49:06.798] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecolonies_compatibility:blocks/citizen_slave
+[09Jul2025 03:05:15.965] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:summer_crops as it is missing following references: miners_delight:cave_carrot (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	vegetablesdelight:cucumber_plant (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	pineapple_delight:pineapple_crop (from sereneseasonsdelight-1.0.2-1.20.1.jar)
+[09Jul2025 03:05:15.970] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:autumn_crops as it is missing following references: miners_delight:cave_carrot (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	vegetablesdelight:cucumber_plant (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	berries_and_cherries:blueberry_bush_bottom (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	berries_and_cherries:black_grape_tree_bottom (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	berries_and_cherries:green_grape_tree_bottom (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	berries_and_cherries:raspberrybush (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	berries_and_cherries:strawberrybush (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	pineapple_delight:pineapple_crop (from sereneseasonsdelight-1.0.2-1.20.1.jar)
+[09Jul2025 03:05:15.974] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:winter_crops as it is missing following references: berries_and_cherries:blueberry_bush_bottom (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	berries_and_cherries:black_grape_tree_bottom (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	berries_and_cherries:green_grape_tree_bottom (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	berries_and_cherries:raspberrybush (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	berries_and_cherries:strawberrybush (from sereneseasonsdelight-1.0.2-1.20.1.jar)
+[09Jul2025 03:05:15.975] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag sereneseasons:spring_crops as it is missing following references: miners_delight:cave_carrot (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	pineapple_delight:pineapple_crop (from sereneseasonsdelight-1.0.2-1.20.1.jar), 
+	vegetablesdelight:cucumber_plant (from sereneseasonsdelight-1.0.2-1.20.1.jar)
+[09Jul2025 03:05:16.686] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecolonies_compatibility:blocks/citizen_slave
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecolonies_compatibility:citizen_slave'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -349,7 +349,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[09Jul2025 00:49:06.852] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecolonies_compatibility:blocks/citizen_extension
+[09Jul2025 03:05:16.731] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecolonies_compatibility:blocks/citizen_extension
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecolonies_compatibility:citizen_extension'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -401,7 +401,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[09Jul2025 00:49:07.125] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecolonies_compatibility:blocks/citizen_grid
+[09Jul2025 03:05:17.015] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecolonies_compatibility:blocks/citizen_grid
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecolonies_compatibility:citizen_grid'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -453,7 +453,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[09Jul2025 00:49:07.164] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecolonies_compatibility:blocks/citizen_inventory
+[09Jul2025 03:05:17.065] [Worker-Main-2/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:minecolonies_compatibility:blocks/citizen_inventory
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecolonies_compatibility:citizen_inventory'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23249!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -505,238 +505,389 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[09Jul2025 00:49:07.358] [main/INFO] [placebo/]: Registered 34 additional loot tables.
-[09Jul2025 00:49:07.713] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 21 recipes
-[09Jul2025 00:49:07.934] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4127 advancements
-[09Jul2025 00:49:07.946] [main/INFO] [placebo/]: Registered 26 additional recipes.
-[09Jul2025 00:49:08.081] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[09Jul2025 00:49:08.089] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[09Jul2025 00:49:08.089] [main/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
-[09Jul2025 00:49:08.098] [main/INFO] [minecolonies/]: Loaded 162 recipes for 16 crafters
-[09Jul2025 00:49:08.098] [main/INFO] [minecolonies/]: Research loading...
-[09Jul2025 00:49:08.113] [main/INFO] [minecolonies/]: Research loaded. Located 4 branches, 205 researches and 100 effects.
-[09Jul2025 00:49:08.116] [main/INFO] [minecolonies/]: Loading quests from data
-[09Jul2025 00:49:08.125] [main/INFO] [minecolonies/]: Finished loading quests from data
-[09Jul2025 00:49:08.129] [main/WARN] [minecolonies/]: Read 1548 items with their nbt keys for compatibility.
-[09Jul2025 00:49:08.140] [main/INFO] [placebo/]: Registered 16 gear_sets.
-[09Jul2025 00:49:08.143] [main/INFO] [Apotheosis : Enchantment/]: Registered 29 enchanting_stats.
-[09Jul2025 00:49:08.145] [main/INFO] [Apotheosis : Adventure/]: Registered 6 rarities.
-[09Jul2025 00:49:08.158] [main/INFO] [Apotheosis : Adventure/]: Registered 81 affixes.
-[09Jul2025 00:49:08.167] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category helmetRequired: 3; Provided: 2
-[09Jul2025 00:49:08.168] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category bootsRequired: 3; Provided: 2
-[09Jul2025 00:49:08.169] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category helmetRequired: 4; Provided: 2
-[09Jul2025 00:49:08.169] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bootsRequired: 4; Provided: 2
-[09Jul2025 00:49:08.169] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bowRequired: 5; Provided: 4
-[09Jul2025 00:49:08.169] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category crossbowRequired: 5; Provided: 4
-[09Jul2025 00:49:08.170] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category pickaxeRequired: 5; Provided: 4
-[09Jul2025 00:49:08.170] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shovelRequired: 5; Provided: 4
-[09Jul2025 00:49:08.170] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shieldRequired: 5; Provided: 4
-[09Jul2025 00:49:08.287] [main/INFO] [Apotheosis : Adventure/]: Registered 19 gems.
-[09Jul2025 00:49:08.306] [main/INFO] [Apotheosis : Adventure/]: Registered 67 affix_loot_entries.
-[09Jul2025 00:49:08.322] [main/INFO] [Apotheosis : Adventure/]: Registered 17 bosses.
-[09Jul2025 00:49:08.348] [main/INFO] [Apotheosis : Adventure/]: Registered 8 rogue_spawners.
-[09Jul2025 00:49:08.351] [main/INFO] [Apotheosis : Adventure/]: Registered 5 minibosses.
-[09Jul2025 00:49:08.356] [main/INFO] [Apotheosis : Village/]: Registered 28 wanderer_trades.
-[09Jul2025 00:49:11.049] [main/INFO] [majruszlibrary/]: [majruszsenchantments.json] Reloading configuration file took 3 milliseconds
-[09Jul2025 00:49:11.050] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 0 milliseconds
-[09Jul2025 00:49:11.050] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[09Jul2025 00:49:11.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[09Jul2025 00:49:11.051] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[09Jul2025 00:49:11.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[09Jul2025 00:49:11.191] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[09Jul2025 00:49:11.241] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[09Jul2025 00:49:11.340] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[09Jul2025 00:49:11.340] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[09Jul2025 00:49:11.340] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[09Jul2025 00:49:11.341] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[09Jul2025 00:49:11.361] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[09Jul2025 00:49:11.372] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/minecolonytax-server.toml is not correct. Correcting
-[09Jul2025 00:49:11.373] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key War Settings.RaidTaxPercentages was corrected from [0.1, 0.25, 0.5, 0.7] to its default, [0.1, 0.25, 0.5, 0.7]. 
-[09Jul2025 00:49:11.793] [Server thread/INFO] [FTB Teams/]: loaded team data: 5 known players, 6 teams total
-[09Jul2025 00:49:11.808] [Server thread/INFO] [net.machiavelli.minecolonytax.pvp.PvPMapManager/]: No PvP arena data file found. Skipping load.
-[09Jul2025 00:49:11.822] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[09Jul2025 00:49:11.823] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[09Jul2025 00:49:11.823] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[09Jul2025 00:49:11.838] [Server thread/INFO] [Framework/]: Loading server configs...
-[09Jul2025 00:49:11.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[09Jul2025 00:49:15.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[09Jul2025 00:49:18.026] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 00:49:18.062] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 00:49:18.067] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 00:49:18.069] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 00:49:18.070] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 00:49:18.484] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 00:49:19.364] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 00:49:19.930] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 00:49:19.987] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 00:49:20.487] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 00:49:20.988] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 00:49:21.486] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 00:49:21.990] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[09Jul2025 00:49:22.485] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[09Jul2025 00:49:23.052] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[09Jul2025 00:49:23.180] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7196 ms
-[09Jul2025 00:49:23.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.826s)! For help, type "help"
-[09Jul2025 00:49:23.325] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[09Jul2025 00:49:23.361] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Server starting: Initializing Tax System and PvP System
-[09Jul2025 00:49:23.362] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Initializing Tax Manager...
-[09Jul2025 00:49:23.364] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Loaded tax data from file.
-[09Jul2025 00:49:23.366] [Server thread/INFO] [net.machiavelli.minecolonytax.vassalization.VassalManager/]: VassalManager initialized
-[09Jul2025 00:49:23.367] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Resetting all colony war and raid permissions to prevent post-crash griefing
-[09Jul2025 00:49:23.376] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War and raid permissions reset successfully
-[09Jul2025 00:49:23.401] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[09Jul2025 00:49:23.401] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[09Jul2025 00:49:23.700] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 23 26
-[09Jul2025 00:49:23.700] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 6621
-[09Jul2025 00:49:23.701] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
-[09Jul2025 00:49:23.701] [Server thread/INFO] [minecolonies/]: Finished discovering food 397 434
-[09Jul2025 00:49:23.701] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 1007
-[09Jul2025 00:49:23.701] [Server thread/INFO] [minecolonies/]: Finished discovering flowers 32
-[09Jul2025 00:49:23.701] [Server thread/INFO] [minecolonies/]: Finished discovering items 6604
-[09Jul2025 00:49:23.703] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 488
-[09Jul2025 00:49:24.026] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[09Jul2025 00:49:25.056] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Phantom Lords': Processed 11 buildings, generated 163 tax (Guards: 0, Max Tax: Not Reached)
-[09Jul2025 00:49:25.057] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Colonia de zsebask': Processed 11 buildings, generated 125 tax (Guards: 1, Max Tax: Not Reached)
-[09Jul2025 00:57:24.053] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[09Jul2025 00:57:24.058] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player a411de0c-4af5-41ee-bd39-891d3fce5c33
-[09Jul2025 00:57:24.360] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 00:57:24.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zsebask[/127.120.187.36:42285] logged in with entity id 211 at (8205.366211435017, 56.9554415401377, 11276.62585855597)
-[09Jul2025 00:57:24.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask joined the game
-[09Jul2025 00:57:24.676] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zsebask just logged in with id a9075875-f090-3eeb-8044-ed360391daea
-[09Jul2025 00:57:24.682] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
-[09Jul2025 00:57:24.687] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged in, ensuring war data is loaded
-[09Jul2025 00:57:24.688] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
-[09Jul2025 00:57:24.688] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 00:57:24.689] [Server thread/INFO] [Jade/]: Syncing config to zsebask (a9075875-f090-3eeb-8044-ed360391daea)
-[09Jul2025 00:57:24.690] [Server thread/INFO] [structurize/]: New Server UUID f82abeef-96ad-4a75-90f3-f05112303c3a
-[09Jul2025 00:57:25.010] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zsebask
-[09Jul2025 00:57:27.098] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2956ms or 59 ticks behind
-[09Jul2025 00:57:31.773] [Worker-Main-15/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
-[09Jul2025 00:58:13.373] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/863, l='ServerLevel[world]', x=8368.21, y=57.80, z=11295.41]
-[09Jul2025 00:58:13.373] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/864, l='ServerLevel[world]', x=8368.21, y=57.80, z=11295.41]
-[09Jul2025 00:58:13.373] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/865, l='ServerLevel[world]', x=8368.21, y=57.80, z=11295.41]
-[09Jul2025 00:58:13.374] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/866, l='ServerLevel[world]', x=8368.21, y=57.80, z=11295.41]
-[09Jul2025 00:58:13.374] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/867, l='ServerLevel[world]', x=8368.21, y=57.80, z=11295.41]
-[09Jul2025 01:00:27.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask has completed the challenge [Free Willy]
-[09Jul2025 01:02:14.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask has made the advancement [Close Quarters]
-[09Jul2025 01:06:31.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask has made the advancement [Chompy]
-[09Jul2025 01:09:18.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask moved too quickly! 11.35365821234518,2.0280255548314585,-2.8152387492627895
-[09Jul2025 01:15:06.705] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask lost connection: Disconnected
-[09Jul2025 01:15:06.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask left the game
-[09Jul2025 01:15:06.707] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
-[09Jul2025 01:15:06.708] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged out, ensuring war data is saved
-[09Jul2025 01:15:06.709] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 01:15:06.709] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
-[09Jul2025 01:16:43.543] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player eb2c13c8-b650-4f0c-b494-e72a734b0f73
-[09Jul2025 01:16:43.575] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 01:16:43.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zsebask[/127.120.187.36:60343] logged in with entity id 18008 at (9530.146578033948, 65.0, 15261.932635756913)
-[09Jul2025 01:16:43.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask joined the game
-[09Jul2025 01:16:43.649] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zsebask just logged in with id a9075875-f090-3eeb-8044-ed360391daea
-[09Jul2025 01:16:43.651] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged in, ensuring war data is loaded
-[09Jul2025 01:16:43.651] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
-[09Jul2025 01:16:43.652] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 01:16:43.652] [Server thread/INFO] [Jade/]: Syncing config to zsebask (a9075875-f090-3eeb-8044-ed360391daea)
-[09Jul2025 01:16:43.653] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
-[09Jul2025 01:16:44.054] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zsebask
-[09Jul2025 01:28:08.757] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
-[09Jul2025 01:29:40.959] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Colonia de zsebask': Processed 1 buildings, generated 30 tax (Guards: 1, Max Tax: Not Reached)
-[09Jul2025 01:36:56.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> eche
-[09Jul2025 01:37:00.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> yo pensaba q era un edifico XD
-[09Jul2025 01:37:39.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ya esta xd
-[09Jul2025 01:38:11.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> eche xd
-[09Jul2025 01:40:33.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> q mejoro entonces?
-[09Jul2025 01:43:34.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask lost connection: Disconnected
-[09Jul2025 01:43:34.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask left the game
-[09Jul2025 01:43:34.605] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
-[09Jul2025 01:43:34.605] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged out, ensuring war data is saved
-[09Jul2025 01:43:34.605] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 01:43:34.605] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
-[09Jul2025 01:49:27.043] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Phantom Lords - Buildings: 8, Generated: 131, Maintenance: 0, Final Balance: 2447
-[09Jul2025 01:49:27.043] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Colonia de zsebask - Buildings: 7, Generated: 135, Maintenance: 0, Final Balance: 1710
-[09Jul2025 01:49:27.044] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax generation cycle completed for all colonies
-[09Jul2025 01:58:35.043] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 33f8ac82-975e-4675-8ada-58f47332e1b7
-[09Jul2025 01:58:35.072] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 01:58:35.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghost[/127.197.124.108:50813] logged in with entity id 22247 at (9514.439267132117, 66.0, 14360.09692420863)
-[09Jul2025 01:58:35.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost joined the game
-[09Jul2025 01:58:35.177] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ghost just logged in with id 48f83307-567a-33d7-8604-3b22ee4c1b84
-[09Jul2025 01:58:35.179] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged in, ensuring war data is loaded
-[09Jul2025 01:58:35.179] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
-[09Jul2025 01:58:35.180] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 01:58:35.180] [Server thread/INFO] [Jade/]: Syncing config to Ghost (48f83307-567a-33d7-8604-3b22ee4c1b84)
-[09Jul2025 01:58:35.183] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
-[09Jul2025 01:58:35.270] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ghost downloaded
-[09Jul2025 01:59:05.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost lost connection: Disconnected
-[09Jul2025 01:59:05.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost left the game
-[09Jul2025 01:59:05.108] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
-[09Jul2025 01:59:05.108] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged out, ensuring war data is saved
-[09Jul2025 01:59:05.108] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 01:59:05.108] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
-[09Jul2025 01:59:05.163] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[09Jul2025 02:00:44.749] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@156c8e83[id=<null>,name=Ghost,properties={},legacy=false] (/127.197.124.108:39797): Took too long to log in
-[09Jul2025 02:00:44.751] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@156c8e83[id=<null>,name=Ghost,properties={},legacy=false] (/127.197.124.108:39797) lost connection: Took too long to log in
-[09Jul2025 02:00:44.792] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[09Jul2025 02:02:00.643] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 496e17c2-4019-4a3a-b2aa-3921492a09ff
-[09Jul2025 02:02:00.665] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 02:02:00.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghost[/127.197.124.108:46461] logged in with entity id 22468 at (9514.439267132117, 66.0, 14360.09692420863)
-[09Jul2025 02:02:00.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost joined the game
-[09Jul2025 02:02:00.736] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ghost just logged in with id 48f83307-567a-33d7-8604-3b22ee4c1b84
-[09Jul2025 02:02:00.737] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged in, ensuring war data is loaded
-[09Jul2025 02:02:00.738] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
-[09Jul2025 02:02:00.738] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 02:02:00.738] [Server thread/INFO] [Jade/]: Syncing config to Ghost (48f83307-567a-33d7-8604-3b22ee4c1b84)
-[09Jul2025 02:02:00.739] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
-[09Jul2025 02:02:00.854] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ghost downloaded
-[09Jul2025 02:02:30.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost lost connection: Timed out
-[09Jul2025 02:02:30.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost left the game
-[09Jul2025 02:02:30.754] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
-[09Jul2025 02:02:30.754] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged out, ensuring war data is saved
-[09Jul2025 02:02:30.754] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 02:02:30.754] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
-[09Jul2025 02:15:46.392] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player f643b561-4a7b-488e-83a2-f8db20c2312e
-[09Jul2025 02:15:46.415] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 02:15:46.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zsebask[/127.120.187.36:36459] logged in with entity id 22638 at (9525.340550355824, 65.0, 15262.762499988079)
-[09Jul2025 02:15:46.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask joined the game
-[09Jul2025 02:15:46.463] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zsebask just logged in with id a9075875-f090-3eeb-8044-ed360391daea
-[09Jul2025 02:15:46.465] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged in, ensuring war data is loaded
-[09Jul2025 02:15:46.465] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
-[09Jul2025 02:15:46.465] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 02:15:46.465] [Server thread/INFO] [Jade/]: Syncing config to zsebask (a9075875-f090-3eeb-8044-ed360391daea)
-[09Jul2025 02:15:46.467] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
-[09Jul2025 02:15:46.944] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zsebask
-[09Jul2025 02:18:23.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask has made the advancement [Defence is the Best Defence]
-[09Jul2025 02:18:23.956] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Colonia de zsebask': Processed 1 buildings, generated 0 tax (Guards: 1, Max Tax: Not Reached)
-[09Jul2025 02:25:32.955] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Colonia de zsebask': Processed 1 buildings, generated 40 tax (Guards: 1, Max Tax: Not Reached)
-[09Jul2025 02:27:38.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask has reached the goal [Hometown]
-[09Jul2025 02:30:54.006] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 81b7f056-cb61-456e-8dfe-7bb4f844a9c5
-[09Jul2025 02:30:54.025] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 02:30:54.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghost[/127.197.124.108:47645] logged in with entity id 25118 at (9514.439267132117, 66.0, 14360.09692420863)
-[09Jul2025 02:30:54.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost joined the game
-[09Jul2025 02:30:54.084] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ghost just logged in with id 48f83307-567a-33d7-8604-3b22ee4c1b84
-[09Jul2025 02:30:54.085] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
-[09Jul2025 02:30:54.086] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged in, ensuring war data is loaded
-[09Jul2025 02:30:54.086] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
-[09Jul2025 02:30:54.087] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 02:30:54.088] [Server thread/INFO] [Jade/]: Syncing config to Ghost (48f83307-567a-33d7-8604-3b22ee4c1b84)
-[09Jul2025 02:30:54.211] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ghost downloaded
-[09Jul2025 02:31:24.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost lost connection: Timed out
-[09Jul2025 02:31:24.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost left the game
-[09Jul2025 02:31:24.114] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
-[09Jul2025 02:31:24.115] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged out, ensuring war data is saved
-[09Jul2025 02:31:24.115] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 02:31:24.115] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
-[09Jul2025 02:32:10.252] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player ea4829dc-c8b1-4e62-8731-978993e565d1
-[09Jul2025 02:32:10.274] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 02:32:10.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sadcruelberry[/127.144.95.112:42911] logged in with entity id 25456 at (9542.686259166401, 71.0, 14395.407917795445)
-[09Jul2025 02:32:10.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sadcruelberry joined the game
-[09Jul2025 02:32:10.326] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player sadcruelberry just logged in with id 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4
-[09Jul2025 02:32:10.327] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4 logged in, ensuring war data is loaded
-[09Jul2025 02:32:10.327] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
-[09Jul2025 02:32:10.328] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
-[09Jul2025 02:32:10.328] [Server thread/INFO] [Jade/]: Syncing config to sadcruelberry (6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4)
-[09Jul2025 02:32:10.330] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player sadcruelberry[6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4]
-[09Jul2025 02:32:10.406] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/sadcruelberry downloaded
-[09Jul2025 02:38:57.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sadcruelberry> zzz
-[09Jul2025 02:49:27.116] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Phantom Lords - Buildings: 8, Generated: 131, Maintenance: 0, Final Balance: 2578
-[09Jul2025 02:49:27.117] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Colonia de zsebask - Buildings: 8, Generated: 145, Maintenance: 13, Final Balance: 1882
-[09Jul2025 02:49:27.117] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax generation cycle completed for all colonies
-[09Jul2025 02:49:47.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sadcruelberry> zzzz
+[09Jul2025 03:05:17.223] [main/INFO] [placebo/]: Registered 34 additional loot tables.
+[09Jul2025 03:05:17.504] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 21 recipes
+[09Jul2025 03:05:17.692] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4127 advancements
+[09Jul2025 03:05:17.705] [main/INFO] [placebo/]: Registered 26 additional recipes.
+[09Jul2025 03:05:17.853] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[09Jul2025 03:05:17.862] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[09Jul2025 03:05:17.863] [main/INFO] [minecolonies/]: Beginning load of custom recipes for colony workers
+[09Jul2025 03:05:17.870] [main/INFO] [minecolonies/]: Loaded 162 recipes for 16 crafters
+[09Jul2025 03:05:17.871] [main/INFO] [minecolonies/]: Research loading...
+[09Jul2025 03:05:17.887] [main/INFO] [minecolonies/]: Research loaded. Located 4 branches, 205 researches and 100 effects.
+[09Jul2025 03:05:17.889] [main/INFO] [minecolonies/]: Loading quests from data
+[09Jul2025 03:05:17.898] [main/INFO] [minecolonies/]: Finished loading quests from data
+[09Jul2025 03:05:17.902] [main/WARN] [minecolonies/]: Read 1548 items with their nbt keys for compatibility.
+[09Jul2025 03:05:17.914] [main/INFO] [placebo/]: Registered 16 gear_sets.
+[09Jul2025 03:05:17.916] [main/INFO] [Apotheosis : Enchantment/]: Registered 29 enchanting_stats.
+[09Jul2025 03:05:17.918] [main/INFO] [Apotheosis : Adventure/]: Registered 6 rarities.
+[09Jul2025 03:05:17.932] [main/INFO] [Apotheosis : Adventure/]: Registered 81 affixes.
+[09Jul2025 03:05:17.937] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category helmetRequired: 3; Provided: 2
+[09Jul2025 03:05:17.937] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category bootsRequired: 3; Provided: 2
+[09Jul2025 03:05:17.938] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category helmetRequired: 4; Provided: 2
+[09Jul2025 03:05:17.938] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bootsRequired: 4; Provided: 2
+[09Jul2025 03:05:17.938] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bowRequired: 5; Provided: 4
+[09Jul2025 03:05:17.938] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category crossbowRequired: 5; Provided: 4
+[09Jul2025 03:05:17.939] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category pickaxeRequired: 5; Provided: 4
+[09Jul2025 03:05:17.939] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shovelRequired: 5; Provided: 4
+[09Jul2025 03:05:17.939] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shieldRequired: 5; Provided: 4
+[09Jul2025 03:05:17.952] [main/INFO] [Apotheosis : Adventure/]: Registered 19 gems.
+[09Jul2025 03:05:17.961] [main/INFO] [Apotheosis : Adventure/]: Registered 67 affix_loot_entries.
+[09Jul2025 03:05:17.969] [main/INFO] [Apotheosis : Adventure/]: Registered 17 bosses.
+[09Jul2025 03:05:17.982] [main/INFO] [Apotheosis : Adventure/]: Registered 8 rogue_spawners.
+[09Jul2025 03:05:17.984] [main/INFO] [Apotheosis : Adventure/]: Registered 5 minibosses.
+[09Jul2025 03:05:17.989] [main/INFO] [Apotheosis : Village/]: Registered 28 wanderer_trades.
+[09Jul2025 03:05:20.675] [main/INFO] [majruszlibrary/]: [majruszsenchantments.json] Reloading configuration file took 3 milliseconds
+[09Jul2025 03:05:20.676] [main/INFO] [majruszlibrary/]: [majruszlibrary.json] Reloading configuration file took 1 milliseconds
+[09Jul2025 03:05:20.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[09Jul2025 03:05:20.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[09Jul2025 03:05:20.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[09Jul2025 03:05:20.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[09Jul2025 03:05:20.735] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[09Jul2025 03:05:20.773] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[09Jul2025 03:05:20.903] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09Jul2025 03:05:20.903] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[09Jul2025 03:05:20.904] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09Jul2025 03:05:20.904] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[09Jul2025 03:05:20.926] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[09Jul2025 03:05:20.928] [Thread-5/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[09Jul2025 03:05:20.944] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/minecolonytax-server.toml is not correct. Correcting
+[09Jul2025 03:05:20.945] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key War Settings.RaidTaxPercentages was corrected from [0.1, 0.25, 0.5, 0.7] to its default, [0.1, 0.25, 0.5, 0.7]. 
+[09Jul2025 03:05:21.726] [Server thread/INFO] [FTB Teams/]: loaded team data: 5 known players, 6 teams total
+[09Jul2025 03:05:21.743] [Server thread/INFO] [net.machiavelli.minecolonytax.pvp.PvPMapManager/]: No PvP arena data file found. Skipping load.
+[09Jul2025 03:05:21.759] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[09Jul2025 03:05:21.760] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[09Jul2025 03:05:21.761] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[09Jul2025 03:05:21.776] [Server thread/INFO] [Framework/]: Loading server configs...
+[09Jul2025 03:05:21.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[09Jul2025 03:05:24.614] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[09Jul2025 03:05:24.980] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[09Jul2025 03:05:26.219] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[09Jul2025 03:05:26.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[09Jul2025 03:05:27.841] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[09Jul2025 03:05:29.706] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 03:05:29.727] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 03:05:29.733] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 03:05:29.741] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 03:05:29.756] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 03:05:29.770] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 03:05:29.780] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 03:05:29.803] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 03:05:30.302] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 03:05:30.966] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[09Jul2025 03:05:31.298] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[09Jul2025 03:05:31.799] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 44%
+[09Jul2025 03:05:32.240] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5943 ms
+[09Jul2025 03:05:32.241] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.321s)! For help, type "help"
+[09Jul2025 03:05:32.398] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[09Jul2025 03:05:32.427] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Server starting: Initializing Tax System and PvP System
+[09Jul2025 03:05:32.428] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Initializing Tax Manager...
+[09Jul2025 03:05:32.429] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Loaded tax data from file.
+[09Jul2025 03:05:32.431] [Server thread/INFO] [net.machiavelli.minecolonytax.vassalization.VassalManager/]: VassalManager initialized
+[09Jul2025 03:05:32.431] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Resetting all colony war and raid permissions to prevent post-crash griefing
+[09Jul2025 03:05:32.442] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War and raid permissions reset successfully
+[09Jul2025 03:05:32.470] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[09Jul2025 03:05:32.470] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[09Jul2025 03:05:32.776] [Server thread/INFO] [minecolonies/]: Finished discovering Ores 23 26
+[09Jul2025 03:05:32.776] [Server thread/INFO] [minecolonies/]: Finished discovering saplings 6621
+[09Jul2025 03:05:32.776] [Server thread/INFO] [minecolonies/]: Finished discovering plantables 19
+[09Jul2025 03:05:32.776] [Server thread/INFO] [minecolonies/]: Finished discovering food 397 434
+[09Jul2025 03:05:32.777] [Server thread/INFO] [minecolonies/]: Finished discovering fuel 1007
+[09Jul2025 03:05:32.777] [Server thread/INFO] [minecolonies/]: Finished discovering flowers 32
+[09Jul2025 03:05:32.777] [Server thread/INFO] [minecolonies/]: Finished discovering items 6604
+[09Jul2025 03:05:32.779] [Server thread/INFO] [minecolonies/]: Finished discovering compostables 488
+[09Jul2025 03:05:33.244] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[09Jul2025 03:05:34.262] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Phantom Lords': Processed 11 buildings, generated 163 tax (Guards: 0, Max Tax: Not Reached)
+[09Jul2025 03:05:34.262] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Colonia de zsebask': Processed 11 buildings, generated 145 tax (Guards: 1, Max Tax: Not Reached)
+[09Jul2025 03:06:02.810] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[09Jul2025 03:06:02.817] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 7340f0f5-628d-44d7-81d1-09a62d7f2d7d
+[09Jul2025 03:06:03.038] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:06:03.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zsebask[/127.120.187.36:35817] logged in with entity id 211 at (9916.43406508903, 75.25220334025373, 15189.46243608829)
+[09Jul2025 03:06:03.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask joined the game
+[09Jul2025 03:06:03.473] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zsebask just logged in with id a9075875-f090-3eeb-8044-ed360391daea
+[09Jul2025 03:06:03.485] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged in, ensuring war data is loaded
+[09Jul2025 03:06:03.486] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:06:03.487] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:06:03.487] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[09Jul2025 03:06:03.489] [Server thread/INFO] [Jade/]: Syncing config to zsebask (a9075875-f090-3eeb-8044-ed360391daea)
+[09Jul2025 03:06:03.490] [Server thread/INFO] [structurize/]: New Server UUID 74d30276-7cd9-4579-aa80-7f46fff95fdb
+[09Jul2025 03:06:03.782] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zsebask
+[09Jul2025 03:06:05.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2891ms or 57 ticks behind
+[09Jul2025 03:06:11.492] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 012c42de-62e5-4e6d-8aa7-5e9bf1bbc132
+[09Jul2025 03:06:11.521] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:06:11.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghost[/127.197.124.108:45715] logged in with entity id 522 at (9514.439267132117, 66.0, 14360.09692420863)
+[09Jul2025 03:06:11.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost joined the game
+[09Jul2025 03:06:11.634] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ghost just logged in with id 48f83307-567a-33d7-8604-3b22ee4c1b84
+[09Jul2025 03:06:11.635] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
+[09Jul2025 03:06:11.635] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged in, ensuring war data is loaded
+[09Jul2025 03:06:11.636] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:06:11.637] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:06:11.637] [Server thread/INFO] [Jade/]: Syncing config to Ghost (48f83307-567a-33d7-8604-3b22ee4c1b84)
+[09Jul2025 03:06:11.706] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ghost downloaded
+[09Jul2025 03:06:25.047] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 99af91ec-6730-47a0-ab1d-d26d8036d765
+[09Jul2025 03:06:25.110] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:06:25.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sadcruelberry[/127.144.95.112:48821] logged in with entity id 749 at (9943.176733074504, 62.07326432466507, 14494.223563757367)
+[09Jul2025 03:06:25.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sadcruelberry joined the game
+[09Jul2025 03:06:26.165] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player sadcruelberry just logged in with id 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4
+[09Jul2025 03:06:26.167] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4 logged in, ensuring war data is loaded
+[09Jul2025 03:06:26.167] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:06:26.168] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:06:26.168] [Server thread/INFO] [Jade/]: Syncing config to sadcruelberry (6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4)
+[09Jul2025 03:06:26.170] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player sadcruelberry[6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4]
+[09Jul2025 03:06:26.224] [ForkJoinPool-3-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/sadcruelberry downloaded
+[09Jul2025 03:06:41.651] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost lost connection: Timed out
+[09Jul2025 03:06:41.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost left the game
+[09Jul2025 03:06:41.653] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
+[09Jul2025 03:06:41.656] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged out, ensuring war data is saved
+[09Jul2025 03:06:41.656] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:06:41.657] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:07:05.974] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7381b1bc[id=<null>,name=Over_30,properties={},legacy=false] (/127.151.83.188:39813) lost connection: Disconnected
+[09Jul2025 03:07:34.028] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@f1f7c5[id=<null>,name=Over_30,properties={},legacy=false] (/127.151.83.188:40769) lost connection: Disconnected
+[09Jul2025 03:07:43.572] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 4529b08d-9e9a-4eb6-a900-0a5d73aeead0
+[09Jul2025 03:07:43.596] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:07:43.596] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Over_30[/127.151.83.188:44137] logged in with entity id 2321 at (9538.947735200485, 73.0, 14434.696053996453)
+[09Jul2025 03:07:43.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Over_30 joined the game
+[09Jul2025 03:07:43.723] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Over_30 just logged in with id 4e716483-1488-3a72-8163-de04135ef52b
+[09Jul2025 03:07:43.724] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 4e716483-1488-3a72-8163-de04135ef52b logged in, ensuring war data is loaded
+[09Jul2025 03:07:43.724] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:07:43.724] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:07:43.724] [Server thread/INFO] [Jade/]: Syncing config to Over_30 (4e716483-1488-3a72-8163-de04135ef52b)
+[09Jul2025 03:07:43.728] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Over_30[4e716483-1488-3a72-8163-de04135ef52b]
+[09Jul2025 03:07:44.227] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/Over_30
+[09Jul2025 03:07:52.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> joa lima q no se conecta hoy tamare
+[09Jul2025 03:07:59.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask moved too quickly! -10.43660495027143,1.1249786285715118,6.698300332378494
+[09Jul2025 03:08:11.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> se por eso
+[09Jul2025 03:08:22.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> igual ya se como funciona el mod este care vrga
+[09Jul2025 03:08:24.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> esta re easy
+[09Jul2025 03:08:38.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> mod todo care vrga facil
+[09Jul2025 03:10:16.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> hptas constructores
+[09Jul2025 03:10:25.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> over
+[09Jul2025 03:10:41.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> a q nivel se hace el cuartel?
+[09Jul2025 03:10:50.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> osea pq tengo la universidad nivel 2 pero aun asi me pide mas nivel de la universidad
+[09Jul2025 03:11:08.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> a okey
+[09Jul2025 03:11:22.172] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player a0cddbd6-20d0-457e-8118-8028fc9cb467
+[09Jul2025 03:11:22.190] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:11:22.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghost[/127.197.124.108:45809] logged in with entity id 4067 at (9514.439267132117, 66.0, 14360.09692420863)
+[09Jul2025 03:11:22.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost joined the game
+[09Jul2025 03:11:22.305] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ghost just logged in with id 48f83307-567a-33d7-8604-3b22ee4c1b84
+[09Jul2025 03:11:22.307] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged in, ensuring war data is loaded
+[09Jul2025 03:11:22.307] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:11:22.307] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:11:22.307] [Server thread/INFO] [Jade/]: Syncing config to Ghost (48f83307-567a-33d7-8604-3b22ee4c1b84)
+[09Jul2025 03:11:22.309] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
+[09Jul2025 03:11:22.388] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ghost downloaded
+[09Jul2025 03:11:52.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost lost connection: Timed out
+[09Jul2025 03:11:52.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost left the game
+[09Jul2025 03:11:52.274] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
+[09Jul2025 03:11:52.274] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged out, ensuring war data is saved
+[09Jul2025 03:11:52.274] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:11:52.275] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:12:12.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> en cual de las 3 ramas es?
+[09Jul2025 03:12:22.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> combate?
+[09Jul2025 03:12:31.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> civil, combate, tecnologia
+[09Jul2025 03:12:33.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> estan esas 3
+[09Jul2025 03:13:01.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> a la verga
+[09Jul2025 03:13:04.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> torre de guardia nivel 3
+[09Jul2025 03:13:06.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> hptas
+[09Jul2025 03:13:17.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> pero si yo soy B1
+[09Jul2025 03:13:19.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> hpta ghost que
+[09Jul2025 03:13:40.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> HPTAAAAAAAAAAAAAAAA
+[09Jul2025 03:13:46.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> SE ME BUGUEO DENUEVO POR EL PUTO GHOST DE MRDA
+[09Jul2025 03:13:47.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask lost connection: Disconnected
+[09Jul2025 03:13:47.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask left the game
+[09Jul2025 03:13:47.218] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[09Jul2025 03:13:47.218] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged out, ensuring war data is saved
+[09Jul2025 03:13:47.218] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:13:47.219] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:14:01.308] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 342fd2f6-fbd9-4875-abbb-d3d066c1f23a
+[09Jul2025 03:14:01.331] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:14:01.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zsebask[/127.120.187.36:39539] logged in with entity id 5018 at (9534.041684422762, 66.0, 15237.022443597883)
+[09Jul2025 03:14:01.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask joined the game
+[09Jul2025 03:14:01.388] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zsebask just logged in with id a9075875-f090-3eeb-8044-ed360391daea
+[09Jul2025 03:14:01.389] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged in, ensuring war data is loaded
+[09Jul2025 03:14:01.389] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:14:01.389] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:14:01.389] [Server thread/INFO] [Jade/]: Syncing config to zsebask (a9075875-f090-3eeb-8044-ed360391daea)
+[09Jul2025 03:14:01.391] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[09Jul2025 03:14:01.666] [ForkJoinPool-3-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zsebask
+[09Jul2025 03:14:13.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> tmr
+[09Jul2025 03:14:16.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Over_30 lost connection: Disconnected
+[09Jul2025 03:14:16.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Over_30 left the game
+[09Jul2025 03:14:16.378] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Over_30[4e716483-1488-3a72-8163-de04135ef52b]
+[09Jul2025 03:14:16.378] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 4e716483-1488-3a72-8163-de04135ef52b logged out, ensuring war data is saved
+[09Jul2025 03:14:16.378] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:14:16.378] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:14:59.316] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26658408[id=<null>,name=Ghost,properties={},legacy=false] (/127.197.124.108:59009) lost connection: Disconnected
+[09Jul2025 03:15:35.566] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player e1d9164a-52b0-4e5d-82c6-a1bdd72ed793
+[09Jul2025 03:15:35.583] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:15:35.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghost[/127.197.124.108:35065] logged in with entity id 5960 at (9514.439267132117, 66.0, 14360.09692420863)
+[09Jul2025 03:15:35.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost joined the game
+[09Jul2025 03:15:35.675] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ghost just logged in with id 48f83307-567a-33d7-8604-3b22ee4c1b84
+[09Jul2025 03:15:35.676] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged in, ensuring war data is loaded
+[09Jul2025 03:15:35.677] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:15:35.677] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:15:35.677] [Server thread/INFO] [Jade/]: Syncing config to Ghost (48f83307-567a-33d7-8604-3b22ee4c1b84)
+[09Jul2025 03:15:35.678] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
+[09Jul2025 03:15:35.770] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ghost downloaded
+[09Jul2025 03:16:05.673] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost lost connection: Timed out
+[09Jul2025 03:16:05.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost left the game
+[09Jul2025 03:16:05.673] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
+[09Jul2025 03:16:05.674] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged out, ensuring war data is saved
+[09Jul2025 03:16:05.674] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:16:05.674] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:18:16.545] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityElephant['Elephant'/7718, l='ServerLevel[world]', x=10081.43, y=79.00, z=15397.27]
+[09Jul2025 03:18:16.546] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Horse['Horse'/7720, l='ServerLevel[world]', x=9962.00, y=79.00, z=15393.61]
+[09Jul2025 03:18:16.546] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityKangaroo['Kangaroo'/7721, l='ServerLevel[world]', x=9980.08, y=81.00, z=15393.30]
+[09Jul2025 03:18:38.393] [Worker-Main-3/INFO] [citadel/]: merged 6 surface rules with vanilla rule SequenceRuleSource
+[09Jul2025 03:19:22.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask has made the advancement [Best Friends Forever]
+[09Jul2025 03:20:30.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> no puedo
+[09Jul2025 03:20:37.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> a no si
+[09Jul2025 03:23:09.469] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3476d8e4[id=<null>,name=Ghost,properties={},legacy=false] (/127.197.124.108:40901) lost connection: Disconnected
+[09Jul2025 03:25:07.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.4104621215501538
+[09Jul2025 03:25:07.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.8363113796531252
+[09Jul2025 03:25:07.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.26825930274571874
+[09Jul2025 03:25:07.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.7034704998786765
+[09Jul2025 03:25:07.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 1.140791437792359
+[09Jul2025 03:25:10.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.26843616471524
+[09Jul2025 03:25:10.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.7443736887980776
+[09Jul2025 03:25:10.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 1.2334806406379357
+[09Jul2025 03:25:10.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 1.7296342907011422
+[09Jul2025 03:25:10.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 2.229558488486873
+[09Jul2025 03:25:10.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 2.7315002311825083
+[09Jul2025 03:25:10.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 3.234521521933857
+[09Jul2025 03:25:10.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 3.7381204573266587
+[09Jul2025 03:25:10.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.5019001522559847
+[09Jul2025 03:25:10.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 1.006161513072584
+[09Jul2025 03:25:10.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 1.5104239852316823
+[09Jul2025 03:25:10.618] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 2.0146870520493394
+[09Jul2025 03:25:10.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.5019042534131586
+[09Jul2025 03:25:10.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 1.0061678086767643
+[09Jul2025 03:25:10.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.501904514772832
+[09Jul2025 03:25:10.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.5019045635181101
+[09Jul2025 03:25:10.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.5019045896024181
+[09Jul2025 03:25:10.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.5019046035577048
+[09Jul2025 03:25:10.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.5019046110264753
+[09Jul2025 03:25:10.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.501904615022795
+[09Jul2025 03:25:11.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.5019046171601076
+[09Jul2025 03:25:11.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.5023135777264542
+[09Jul2025 03:25:11.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.969948177367769
+[09Jul2025 03:25:11.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.44582587928016437
+[09Jul2025 03:25:11.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.8834196548687032
+[09Jul2025 03:25:11.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.4295674851618969
+[09Jul2025 03:25:11.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.7863398129084089
+[09Jul2025 03:25:11.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.31419963451844524
+[09Jul2025 03:25:11.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.29268215946103737
+[09Jul2025 03:25:11.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.7805467596226663
+[09Jul2025 03:25:11.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.3587033865023841
+[09Jul2025 03:25:11.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.7805467596226663
+[09Jul2025 03:25:11.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.7805467596226663
+[09Jul2025 03:25:11.597] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.4346270193327655
+[09Jul2025 03:25:11.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.7805467596226663
+[09Jul2025 03:25:11.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of zsebask) moved wrongly! 0.4752522415055864
+[09Jul2025 03:25:22.718] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 9e335a47-59a1-45e7-9843-dded1fa85ff4
+[09Jul2025 03:25:22.734] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:25:22.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghost[/127.197.124.108:42357] logged in with entity id 12001 at (9514.439267132117, 66.0, 14360.09692420863)
+[09Jul2025 03:25:22.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost joined the game
+[09Jul2025 03:25:22.828] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ghost just logged in with id 48f83307-567a-33d7-8604-3b22ee4c1b84
+[09Jul2025 03:25:22.829] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged in, ensuring war data is loaded
+[09Jul2025 03:25:22.829] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:25:22.829] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:25:22.829] [Server thread/INFO] [Jade/]: Syncing config to Ghost (48f83307-567a-33d7-8604-3b22ee4c1b84)
+[09Jul2025 03:25:22.829] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
+[09Jul2025 03:25:22.903] [ForkJoinPool-3-worker-6/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ghost downloaded
+[09Jul2025 03:25:54.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask lost connection: Disconnected
+[09Jul2025 03:25:54.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask left the game
+[09Jul2025 03:25:54.820] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[09Jul2025 03:25:54.820] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged out, ensuring war data is saved
+[09Jul2025 03:25:54.820] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:25:54.820] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:27:21.560] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 429d6b16-85b6-4385-8201-b02909e64343
+[09Jul2025 03:27:21.583] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:27:21.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zsebask[/127.120.187.36:49175] logged in with entity id 12714 at (9347.6982421875, 85.8500000178814, 15539.405115687352)
+[09Jul2025 03:27:21.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask joined the game
+[09Jul2025 03:27:22.315] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zsebask just logged in with id a9075875-f090-3eeb-8044-ed360391daea
+[09Jul2025 03:27:22.316] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[09Jul2025 03:27:22.316] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged in, ensuring war data is loaded
+[09Jul2025 03:27:22.316] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:27:22.316] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:27:22.316] [Server thread/INFO] [Jade/]: Syncing config to zsebask (a9075875-f090-3eeb-8044-ed360391daea)
+[09Jul2025 03:27:22.565] [ForkJoinPool-3-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zsebask
+[09Jul2025 03:27:34.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> vrgacion
+[09Jul2025 03:27:38.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> a la vrga
+[09Jul2025 03:28:16.465] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[09Jul2025 03:28:17.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> 10
+[09Jul2025 03:28:31.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> xd
+[09Jul2025 03:28:37.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> twitch no paga nada
+[09Jul2025 03:29:15.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> BRO
+[09Jul2025 03:29:18.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> DOS PUTOS DRAGONES XD
+[09Jul2025 03:30:35.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> puto ghost
+[09Jul2025 03:30:38.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ya dejo bugueados los dragones
+[09Jul2025 03:31:17.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/14844, l='ServerLevel[world]', x=9043.83, y=64.00, z=15215.30] died: Honeyed Archer was slain by zsebask
+[09Jul2025 03:31:28.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> denmen un cactuuuuuuuuuus
+[09Jul2025 03:31:42.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> cuantos coraozones tiene?
+[09Jul2025 03:31:43.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> 1
+[09Jul2025 03:31:44.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> 12?
+[09Jul2025 03:32:10.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> denmen un puto cactus
+[09Jul2025 03:32:46.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> un puto cactus no hayyyyyyyyy
+[09Jul2025 03:33:30.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ghost
+[09Jul2025 03:33:32.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> regalame un cactus
+[09Jul2025 03:33:37.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sadcruelberry> zzzzz
+[09Jul2025 03:34:08.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> regalnmen un cactus
+[09Jul2025 03:34:20.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> un /give
+[09Jul2025 03:34:44.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> fucking cactuuuuuuuuuuuus
+[09Jul2025 03:35:11.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> aaaaaaaaaaa
+[09Jul2025 03:37:10.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> regalenmen un cactus :(
+[09Jul2025 03:37:21.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> -/give
+[09Jul2025 03:37:42.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> jodaaaaaaaaaaaaaaaa
+[09Jul2025 03:37:58.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask has made the advancement [Crops of the Wild]
+[09Jul2025 03:38:43.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ghost
+[09Jul2025 03:39:31.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> y si me regalas un cactus ghost?
+[09Jul2025 03:40:12.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ni un puto desiertooooooooooooooo
+[09Jul2025 03:41:03.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> llevo 10 mil bloques y ni un puto desierto
+[09Jul2025 03:41:47.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> puto cactus
+[09Jul2025 03:43:52.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> aaaaaaaaaaaaaaaaaaaaaaaaa
+[09Jul2025 03:44:09.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask has made the advancement [Who You Gonna Call?]
+[09Jul2025 03:45:37.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> estoy un desierto y no hay cantus
+[09Jul2025 03:45:38.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> nah bueno
+[09Jul2025 03:49:42.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask has completed the challenge [The Power of the Sun]
+[09Jul2025 03:49:46.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask was kicked for floating too long!
+[09Jul2025 03:49:46.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask lost connection: Flying is not enabled on this server
+[09Jul2025 03:49:46.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask left the game
+[09Jul2025 03:49:46.873] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[09Jul2025 03:49:46.873] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged out, ensuring war data is saved
+[09Jul2025 03:49:46.873] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:49:46.873] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:50:08.558] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6191a7a2[id=<null>,name=zsebask,properties={},legacy=false] (/127.120.187.36:48465) lost connection: Disconnected
+[09Jul2025 03:50:16.508] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 36d0ea1e-5fe7-49e0-b6ab-bb41d1fc20f1
+[09Jul2025 03:50:16.526] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:50:16.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zsebask[/127.120.187.36:38941] logged in with entity id 33498 at (10424.725753438659, 174.12025227274992, 16847.38597823)
+[09Jul2025 03:50:16.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask joined the game
+[09Jul2025 03:50:16.567] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zsebask just logged in with id a9075875-f090-3eeb-8044-ed360391daea
+[09Jul2025 03:50:16.568] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged in, ensuring war data is loaded
+[09Jul2025 03:50:16.568] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:50:16.568] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:50:16.568] [Server thread/INFO] [Jade/]: Syncing config to zsebask (a9075875-f090-3eeb-8044-ed360391daea)
+[09Jul2025 03:50:16.568] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[09Jul2025 03:50:16.825] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zsebask
+[09Jul2025 03:50:29.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask was kicked for floating too long!
+[09Jul2025 03:50:29.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask lost connection: Flying is not enabled on this server
+[09Jul2025 03:50:29.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask left the game
+[09Jul2025 03:50:29.579] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[09Jul2025 03:50:29.579] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged out, ensuring war data is saved
+[09Jul2025 03:50:29.579] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:50:29.579] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:50:56.357] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 34c152f1-bf47-4b6b-a5db-bbe98e86509b
+[09Jul2025 03:50:56.379] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:50:56.379] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zsebask[/127.120.187.36:42003] logged in with entity id 33757 at (10429.8342969901, 165.03504495146336, 16855.557740972417)
+[09Jul2025 03:50:56.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask joined the game
+[09Jul2025 03:50:56.418] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player zsebask just logged in with id a9075875-f090-3eeb-8044-ed360391daea
+[09Jul2025 03:50:56.418] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged in, ensuring war data is loaded
+[09Jul2025 03:50:56.419] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 03:50:56.419] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 03:50:56.419] [Server thread/INFO] [Jade/]: Syncing config to zsebask (a9075875-f090-3eeb-8044-ed360391daea)
+[09Jul2025 03:50:56.421] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[09Jul2025 03:50:56.633] [ForkJoinPool-3-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zsebask
+[09Jul2025 03:53:40.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <sadcruelberry> ZZZZZZZ
+[09Jul2025 03:54:01.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> mas facil un dragon electrico que un puto cactus
+[09Jul2025 03:54:12.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask has made the advancement [Penteconter]
+[09Jul2025 03:54:45.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Ghost> zzzzzzzzz
