@@ -638,3 +638,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jul2025 01:16:43.652] [Server thread/INFO] [Jade/]: Syncing config to zsebask (a9075875-f090-3eeb-8044-ed360391daea)
 [09Jul2025 01:16:43.653] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
 [09Jul2025 01:16:44.054] [ForkJoinPool-3-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zsebask
+[09Jul2025 01:28:08.757] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[09Jul2025 01:29:40.959] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Colonia de zsebask': Processed 1 buildings, generated 30 tax (Guards: 1, Max Tax: Not Reached)
+[09Jul2025 01:36:56.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> eche
+[09Jul2025 01:37:00.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> yo pensaba q era un edifico XD
+[09Jul2025 01:37:39.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ya esta xd
+[09Jul2025 01:38:11.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> eche xd
