@@ -10107,3 +10107,34 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jul2025 04:45:36.072] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
 [09Jul2025 04:45:36.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jul2025 04:45:36.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 04:50:36.058] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[09Jul2025 04:50:36.071] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[09Jul2025 04:50:36.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 04:50:36.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 04:55:36.058] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[09Jul2025 04:55:36.071] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[09Jul2025 04:55:36.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 04:55:36.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 04:56:10.599] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Server stopping. Saving tax data...
+[09Jul2025 04:56:10.600] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[09Jul2025 04:56:10.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Jul2025 04:56:10.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Jul2025 04:56:10.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Jul2025 04:56:10.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Jul2025 04:56:13.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Jul2025 04:56:13.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Jul2025 04:56:13.808] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[09Jul2025 04:56:13.819] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[09Jul2025 04:56:13.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 04:56:13.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 04:56:13.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Jul2025 04:56:13.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Jul2025 04:56:13.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Jul2025 04:56:13.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Jul2025 04:56:14.412] [Server thread/INFO] [Framework/]: Unloading server configs...
+[09Jul2025 04:56:14.413] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/serverZoombie/servidor_minecraft/config/goblintraders-entities.toml
+[09Jul2025 04:56:14.413] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[09Jul2025 04:56:14.415] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[09Jul2025 04:56:14.415] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[09Jul2025 04:56:14.415] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[09Jul2025 04:56:14.416] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
