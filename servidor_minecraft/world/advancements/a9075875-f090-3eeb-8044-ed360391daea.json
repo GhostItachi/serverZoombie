@@ -8627,5 +8627,41 @@
     },
     "done": true
   },
+  "minecolonies:recipes/misc/blockhutstonemason": {
+    "criteria": {
+      "has_items": "2025-07-09 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:military/root": {
+    "criteria": {
+      "guardtower": "2025-07-09 02:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutstonesmeltery": {
+    "criteria": {
+      "has_items": "2025-07-09 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_guard_tower": {
+    "criteria": {
+      "guard_tower": "2025-07-09 02:18:23 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutlibrary": {
+    "criteria": {
+      "has_items": "2025-07-09 02:18:54 +0000"
+    },
+    "done": true
+  },
+  "minecolonies:recipes/misc/blockhutuniversity": {
+    "criteria": {
+      "has_items": "2025-07-09 02:18:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
