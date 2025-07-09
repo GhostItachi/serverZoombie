@@ -5984,3 +5984,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jul2025 01:39:27.002] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
 [09Jul2025 01:39:27.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jul2025 01:39:27.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 01:40:33.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> q mejoro entonces?
+[09Jul2025 01:43:34.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask lost connection: Disconnected
+[09Jul2025 01:43:34.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask left the game
+[09Jul2025 01:43:34.605] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[09Jul2025 01:43:34.605] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged out, ensuring war data is saved
+[09Jul2025 01:43:34.605] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 01:43:34.605] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 01:43:34.614] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving PlayerWarData for player a9075875-f090-3eeb-8044-ed360391daea
+[09Jul2025 01:43:34.614] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: Saving war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 01:43:34.614] [Server thread/DEBUG] [net.machiavelli.minecolonytax.MineColonyTax/]: PlayerWarData successfully saved to persistent storage for player a9075875-f090-3eeb-8044-ed360391daea
+[09Jul2025 01:44:26.956] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[09Jul2025 01:44:26.968] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[09Jul2025 01:44:26.968] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 01:44:26.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 01:49:26.956] [Server thread/DEBUG] [citadel/]: saving unmodified surface rules as type SequenceRuleSource
+[09Jul2025 01:49:26.969] [Server thread/DEBUG] [citadel/]: modified surface rules to type CitadelSurfaceRuleWrapper
+[09Jul2025 01:49:26.969] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 01:49:26.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 01:49:27.043] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Phantom Lords - Buildings: 8, Generated: 131, Maintenance: 0, Final Balance: 2447
+[09Jul2025 01:49:27.043] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Colonia de zsebask - Buildings: 7, Generated: 135, Maintenance: 0, Final Balance: 1710
+[09Jul2025 01:49:27.044] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax generation cycle completed for all colonies

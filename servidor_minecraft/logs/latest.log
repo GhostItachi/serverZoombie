@@ -644,3 +644,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jul2025 01:37:00.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> yo pensaba q era un edifico XD
 [09Jul2025 01:37:39.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ya esta xd
 [09Jul2025 01:38:11.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> eche xd
+[09Jul2025 01:40:33.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> q mejoro entonces?
+[09Jul2025 01:43:34.604] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask lost connection: Disconnected
+[09Jul2025 01:43:34.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask left the game
+[09Jul2025 01:43:34.605] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[09Jul2025 01:43:34.605] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged out, ensuring war data is saved
+[09Jul2025 01:43:34.605] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 01:43:34.605] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 01:49:27.043] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Phantom Lords - Buildings: 8, Generated: 131, Maintenance: 0, Final Balance: 2447
+[09Jul2025 01:49:27.043] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Colonia de zsebask - Buildings: 7, Generated: 135, Maintenance: 0, Final Balance: 1710
+[09Jul2025 01:49:27.044] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax generation cycle completed for all colonies
