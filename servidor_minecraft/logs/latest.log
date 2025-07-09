@@ -705,3 +705,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jul2025 02:15:46.944] [ForkJoinPool-3-worker-5/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zsebask
 [09Jul2025 02:18:23.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask has made the advancement [Defence is the Best Defence]
 [09Jul2025 02:18:23.956] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Colonia de zsebask': Processed 1 buildings, generated 0 tax (Guards: 1, Max Tax: Not Reached)
+[09Jul2025 02:25:32.955] [Server thread/INFO] [net.machiavelli.minecolonytax.event.ColonyEventListener/]: Colony 'Colonia de zsebask': Processed 1 buildings, generated 40 tax (Guards: 1, Max Tax: Not Reached)
+[09Jul2025 02:27:38.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask has reached the goal [Hometown]

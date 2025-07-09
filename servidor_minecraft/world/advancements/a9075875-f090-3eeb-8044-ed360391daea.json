@@ -8651,6 +8651,12 @@
     },
     "done": true
   },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2025-07-09 02:27:38 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/misc/blockhutlibrary": {
     "criteria": {
       "has_items": "2025-07-09 02:18:54 +0000"
