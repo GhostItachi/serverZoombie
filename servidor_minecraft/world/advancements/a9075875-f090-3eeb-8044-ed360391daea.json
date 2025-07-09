@@ -9224,5 +9224,59 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-07-09 03:53:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-07-09 03:53:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-07-09 03:53:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-07-09 03:53:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-09 03:53:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-07-09 03:53:42 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-07-09 03:54:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-07-09 04:04:37 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-09 04:09:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
