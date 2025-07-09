@@ -654,3 +654,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jul2025 01:49:27.043] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Phantom Lords - Buildings: 8, Generated: 131, Maintenance: 0, Final Balance: 2447
 [09Jul2025 01:49:27.043] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax cycle completed for colony Colonia de zsebask - Buildings: 7, Generated: 135, Maintenance: 0, Final Balance: 1710
 [09Jul2025 01:49:27.044] [Server thread/INFO] [net.machiavelli.minecolonytax.TaxManager/]: Tax generation cycle completed for all colonies
+[09Jul2025 01:58:35.043] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Attempting to load persistent war data for player 33f8ac82-975e-4675-8ada-58f47332e1b7
+[09Jul2025 01:58:35.072] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Loaded war stats - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 01:58:35.072] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ghost[/127.197.124.108:50813] logged in with entity id 22247 at (9514.439267132117, 66.0, 14360.09692420863)
+[09Jul2025 01:58:35.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost joined the game
+[09Jul2025 01:58:35.177] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Ghost just logged in with id 48f83307-567a-33d7-8604-3b22ee4c1b84
+[09Jul2025 01:58:35.179] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged in, ensuring war data is loaded
+[09Jul2025 01:58:35.179] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data loaded on player login: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 01:58:35.180] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on login - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 01:58:35.180] [Server thread/INFO] [Jade/]: Syncing config to Ghost (48f83307-567a-33d7-8604-3b22ee4c1b84)
+[09Jul2025 01:58:35.183] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
+[09Jul2025 01:58:35.270] [ForkJoinPool-3-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: File https://playerdb.co/api/player/minecraft/Ghost downloaded
+[09Jul2025 01:59:05.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost lost connection: Disconnected
+[09Jul2025 01:59:05.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost left the game
+[09Jul2025 01:59:05.108] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
+[09Jul2025 01:59:05.108] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged out, ensuring war data is saved
+[09Jul2025 01:59:05.108] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 01:59:05.108] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 01:59:05.163] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
