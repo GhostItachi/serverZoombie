@@ -998,3 +998,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Jul2025 04:25:43.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> q basura
 [09Jul2025 04:25:45.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> la verdad
 [09Jul2025 04:25:51.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zsebask> ola
+[09Jul2025 04:31:07.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost has made the advancement [A Throwaway Joke]
+[09Jul2025 04:32:27.657] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sadcruelberry lost connection: Disconnected
+[09Jul2025 04:32:27.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sadcruelberry left the game
+[09Jul2025 04:32:27.658] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player sadcruelberry[6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4]
+[09Jul2025 04:32:27.658] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 6e76a743-bf85-3abf-aa4c-a9a76a7c1ec4 logged out, ensuring war data is saved
+[09Jul2025 04:32:27.658] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 04:32:27.658] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 04:32:35.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ghost lost connection: Disconnected
+[09Jul2025 04:32:35.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ghost left the game
+[09Jul2025 04:32:35.158] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Ghost[48f83307-567a-33d7-8604-3b22ee4c1b84]
+[09Jul2025 04:32:35.158] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player 48f83307-567a-33d7-8604-3b22ee4c1b84 logged out, ensuring war data is saved
+[09Jul2025 04:32:35.158] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 04:32:35.158] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
+[09Jul2025 04:34:09.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zsebask lost connection: Disconnected
+[09Jul2025 04:34:09.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zsebask left the game
+[09Jul2025 04:34:09.510] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player zsebask[a9075875-f090-3eeb-8044-ed360391daea]
+[09Jul2025 04:34:09.510] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: Player a9075875-f090-3eeb-8044-ed360391daea logged out, ensuring war data is saved
+[09Jul2025 04:34:09.510] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War stats on logout - PlayersKilled: 0, RaidedColonies: 0, AmountRaided: 0, WarsWon: 0, WarStalemates: 0
+[09Jul2025 04:34:09.510] [Server thread/INFO] [net.machiavelli.minecolonytax.MineColonyTax/]: War data saved on player logout: {amountRaided:0L,playersKilledInWar:0,raidedColonies:0,warStalemates:0,warsWon:0}
